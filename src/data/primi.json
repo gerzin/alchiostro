@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Aglio e Olio",
+        "descr": "Spaghetti, aglio, olio, peperoncino, pepe",
+        "price": "3.5"
+    },
+    {
+        "name": "Carbonara",
+        "descr": "pasta a scelta, uova, pecorino, guanciale",
+        "price": "5"
+    }
+]

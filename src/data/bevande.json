@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Acqua naturale",
+        "descr": "1 Litro",
+        "price": "1"
+    },
+    {
+        "name": "Vino rosso della casa",
+        "descr": "0.750 Litri",
+        "price": "3.5"
+    }
+]
