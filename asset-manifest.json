@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ilchiostro/static/css/main.0643672a.css",
-    "main.js": "/ilchiostro/static/js/main.00ccec3f.js",
+    "main.js": "/ilchiostro/static/js/main.dbdd96ab.js",
     "static/js/787.1b1c004a.chunk.js": "/ilchiostro/static/js/787.1b1c004a.chunk.js",
     "static/media/background.jpg": "/ilchiostro/static/media/background.473255891d6f84cd0b1b.jpg",
     "static/media/logo.svg": "/ilchiostro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ilchiostro/index.html",
     "main.0643672a.css.map": "/ilchiostro/static/css/main.0643672a.css.map",
-    "main.00ccec3f.js.map": "/ilchiostro/static/js/main.00ccec3f.js.map",
+    "main.dbdd96ab.js.map": "/ilchiostro/static/js/main.dbdd96ab.js.map",
     "787.1b1c004a.chunk.js.map": "/ilchiostro/static/js/787.1b1c004a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0643672a.css",
-    "static/js/main.00ccec3f.js"
+    "static/js/main.dbdd96ab.js"
   ]
 }
