@@ -29,6 +29,7 @@ function App() {
           <ButtonToolbar className="justify-content-center">
 
             <Button className="btn-space" href="#menu-header-id" variant='primary'>Menu</Button>{' '}
+            <Button className="btn-space" href="#Pizze" variant='info'>Pizze</Button>{' '}
 
 
             <DropdownButton as={ButtonGroup} variant="primary" id="dropdown-basic-button" title="Contattaci">

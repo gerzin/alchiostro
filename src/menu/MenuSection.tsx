@@ -13,7 +13,7 @@ export class MenuSection extends React.Component<MenuSectionProps> {
         const ndishes = dishes.length
         return (
             <div className="menu-section">
-                <div className="menu-section-header"><h1>{name}</h1></div>
+                <div className="menu-section-header"><h1 id={name}>{name}</h1></div>
                 <Container className="menu-section-dishes">
                     {
                         dishes.map((dish, index) => (
