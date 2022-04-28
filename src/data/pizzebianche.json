@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Tonno e cipolla",
+        "descr": "fior di latte, cipolla bianca e filetti di tonno",
+        "allergies": "glutine, latte, pesce",
+        "price": "6"
+    },
+    {
+        "name": "Vegetariana",
+        "descr": "fior di latte, zucchine grigliate, melanzane grigliate e carciofini",
+        "allergies": "glutine, latte",
+        "price": "5"
+    },
+    {
+        "name": "Crudo e rucola",
+        "descr": "fior di latte in uscita: rucola, scaglie di parmigiano e prosciutto crudo",
+        "allergies": "glutine, latte",
+        "price": "5.5"
+    },
+    {
+        "name": "Cotto e mais",
+        "descr": "fior di latte, panna, prosciutto cotto e mais",
+        "allergies": "glutine, latte",
+        "price": "5"
+    },
+    {
+        "name": "Salsiccia e patate al forno",
+        "descr": "mozzarella di bufala, salsiccia, patate al forno croccanti in uscita: olio evo e basilico",
+        "allergies": "glutine, latte",
+        "price": "6"
+    }
+]

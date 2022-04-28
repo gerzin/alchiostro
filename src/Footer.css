@@ -1,0 +1,19 @@
+.footer {
+    margin-top: 0;
+    padding: 2rem;
+    background-color: rgb(252, 240, 204);
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-image: linear-gradient(90deg, rgba(200,0,0,.5) 50%, transparent 0),
+    linear-gradient(rgba(200,0,0,.5) 50%, transparent 0);
+    background-size: 30px 30px;
+}
+
+.footerText {
+    color: gold;
+    font-size: larger;
+    font-weight: 900;
+}
+

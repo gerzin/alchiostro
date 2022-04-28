@@ -1,0 +1,32 @@
+[
+     {
+          "name": "Tagliatelle Homemade fave pancetta e finocchietto selvatico",
+          "descr": "Tagliatelle fatte in casa",
+          "allergies": "glutine, uova, latte",
+          "price": "9"
+     },
+     {
+          "name": "Spaghetti alla Nerano",
+          "descr": "Spaghetti conditi con zucchine fritte, mix di Provolone del Monaco, parmigiano reggiano, pecorino e basilico fresco",
+          "allergies": "glutine, latte",
+          "price": "8"
+     },
+     {
+          "name": "Pasta fresca al pomodoro e basilico",
+          "descr": "Pasta fresca del giorno fatta in casa",
+          "allergies": "glutine, uova, latte",
+          "price": "7"
+     },
+     {
+          "name": "Ravioli al Carciofo",
+          "descr": "Ravioli con ripieno di ricotta e noci conditi con crema di carciofo bianco di Auletta con speck.",
+          "allergies": "glutine, uova, latte, frutta a guscio",
+          "price": "9"
+     },
+     {
+          "name": "Ravioli fatti in casa al pomodoro e basilico",
+          "descr": "ravioli freschi con ricotta al pomodoro",
+          "allergies": "glutine, uova, latte",
+          "price": "7"
+     }
+]

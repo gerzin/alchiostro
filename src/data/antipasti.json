@@ -1,7 +1,25 @@
 [
     {
-        "name": "Mare e Monti",
-        "descr": "Acqua di Mediterraneo, terra degli Alburni",
+        "name": "Antipasto al Chiostro",
+        "descr": "affettato di salumi locali, caciocavallo, pecorino nostrano, perla di bufala campana, ricotta di pecora al miele, assaggi misti a seconda della stagione.",
+        "allergies": "latte",
         "price": "10"
+    },
+    {
+        "name": "Vitellino tonnato",
+        "descr": "girello di vitellino, salsa tonnata, patate lesse, capperi.",
+        "allergies": "uova, latte",
+        "price": "8.50"
+    },
+    {
+        "name": "Fritto misto Napoletano Homemade",
+        "descr": "crocchettone con crema di pistacchio e mortadella, arancino in tempura di cacio e pepe, frittatina di pasta.",
+        "allergies": "glutine, uova, latte, frutta a guscio",
+        "price": "8"
+    },
+    {
+        "name": "La Tartare",
+        "descr": "battuta di manzo con emulsione al basilico e olio evo.",
+        "price": "8.50"
     }
 ]

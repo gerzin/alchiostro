@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Cheesecake",
+        "descr": "chiedi per la cheesecake del giorno",
+        "allergies": "latte, uova, glutine, pesce, frutta a guscio",
+        "price": "5"
+    },
+    {
+        "name": "mousse al cioccolato",
+        "descr": "",
+        "allergies": "latte, uova, frutta a guscio",
+        "price": "5"
+    },
+    {
+        "name": "chiostromisù",
+        "descr": "babà al rum farcito con crema al mascarpone e cacao",
+        "allergies": "latte, uova, glutine",
+        "price": "5"
+    }
+]

@@ -1,0 +1,14 @@
+[
+   {
+      "name": "Classico",
+      "descr": "Fior di latte, pomodoro, salame napoli, proscitto cotto e ricotta",
+      "allergies": "glutine, latte",
+      "price": "6.50"
+   },
+   {
+      "name": "Salsiccia e patate",
+      "descr": "Fior di latte, salsiccia, patate al forno, scamorza affumicata",
+      "allergies": "glutine, latte",
+      "price": "6.50"
+   }
+]

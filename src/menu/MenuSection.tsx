@@ -18,8 +18,8 @@ export class MenuSection extends React.Component<MenuSectionProps> {
                     {
                         dishes.map((dish, index) => (
                             <Container>
-                                <MenuItem name={dish.name} descr={dish.descr} price={dish.price}></MenuItem>
-                                {(index != (ndishes - 1)) ? (
+                                <MenuItem {...dish}></MenuItem>
+                                {(index !== (ndishes - 1)) ? (
                                     <Divider></Divider>
                                 ) : (
                                     <div></div>

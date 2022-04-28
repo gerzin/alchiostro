@@ -1,0 +1,22 @@
+[
+   {
+      "name": "Coca cola bottiglia",
+      "descr": "",
+      "price": "2.5"
+   },
+   {
+      "name": "Coca cola lattina",
+      "descr": "",
+      "price": "1.5"
+   },
+   {
+      "name": "Fanta lattina",
+      "descr": "",
+      "price": "1.5"
+   },
+   {
+      "name": "Acqua Santo Stefano",
+      "descr": "liscia o gassata",
+      "price": "1.5"
+   }
+]

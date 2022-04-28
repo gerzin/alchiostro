@@ -1,0 +1,23 @@
+[
+     {
+          "name": "patate al forno profumate al rosmarino",
+          "descr": "",
+          "price": "4"
+     },
+     {
+          "name": "insalata mista",
+          "descr": "",
+          "price": "3"
+     },
+     {
+          "name": "patatine fritte classiche",
+          "descr": "",
+          "price": "3"
+     },
+     {
+          "name": "patatine fritte grana e tartufo",
+          "descr": "",
+          "allergies": "latte",
+          "price": "4.5"
+     }
+]

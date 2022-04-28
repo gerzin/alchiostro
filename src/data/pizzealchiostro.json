@@ -1,0 +1,67 @@
+[
+   {
+      "name": "Speck e noci",
+      "descr": "fior di latte, speck in uscita: noci e ciuffi di ricotta",
+      "allergies": "glutine, latte, frutta a guscio",
+      "price": "6"
+   },
+   {
+      "name": "Mortadella",
+      "descr": "fior di latte in uscita: mortadella, granella di pistacchio, crema di burrata e emulsione di olio al basilico",
+      "allergies": "glutine, latte, frutta a guscio ",
+      "price": "6.5"
+   },
+   {
+      "name": "Pomodorini confit e rucola",
+      "descr": "fior di latte in uscita: pomodorini confit cotti a bassa temperatura, rucola e stracciatella",
+      "allergies": "glutine, latte",
+      "price": "6"
+   },
+   {
+      "name": "Polpettine al sugo",
+      "descr": "fior di latte, pomodoro in uscita: polpettine al sugo e pecorino",
+      "allergies": "glutine, latte, uova",
+      "price": "6"
+   },
+   {
+      "name": "Salame napoli e ricotta",
+      "descr": "fior di latte pomodoro in uscita: salame napoli e ricotta",
+      "allergies": "glutine, latte",
+      "price": "6"
+   },
+   {
+      "name": "Nerano",
+      "descr": "fior di latte, crema di zucchine in uscita: scaglie di provolone del monaco e zucchine fritte",
+      "allergies": "glutine, latte",
+      "price": "6.5"
+   },
+   {
+      "name": "4 formaggi",
+      "descr": "fior di latte, gorgonzola, crema di parmigiano e scamorza affumicata",
+      "allergies": "glutine, latte",
+      "price": "6"
+   },
+   {
+      "name": "Asparagi",
+      "descr": "fior di latte, asparagi e pancetta (disponibile in stagione)",
+      "allergies": "glutine, latte",
+      "price": "6"
+   },
+   {
+      "name": "Datterino giallo e pancetta",
+      "descr": "fior di latte, crema di datterino giallo, scamorza affumicata e pancetta arrotolata",
+      "allergies": "glutine, latte",
+      "price": "6.5"
+   },
+   {
+      "name": "Crocchettone sbriciolato",
+      "descr": "fior di latte, panna, prosciutto cotto e crocchettone sbriciolato",
+      "allergies": "glutine, latte, uova",
+      "price": "6.5"
+   },
+   {
+      "name": "Salsiccia e broccoli",
+      "descr": "fior di latte broccoli e salsiccia fresca (disponibile in stagione)",
+      "price": "6"
+   }
+]

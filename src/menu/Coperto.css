@@ -1,4 +1,9 @@
-.coperto {
+.coperto-section {
     margin-top: 100px;
-    font-size: x-small;
+    font-size: small;
+    margin-bottom: 30px;
+}
+
+.coperto-string {
+    margin-top: 15px;
 }
