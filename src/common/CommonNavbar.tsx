@@ -4,14 +4,16 @@ import { Nav, Navbar, NavDropdown } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap'
 
 
-
+/**
+ * Navbar common to all sections
+ */
 class CommonNavbar extends React.Component {
 
     render() {
         return (
             <Navbar bg="light" expand="lg">
                 <Container>
-                    <Navbar.Brand href="/">"Al Chiostro"</Navbar.Brand>
+                    <Navbar.Brand href="/alchiostro">"Al Chiostro"</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
