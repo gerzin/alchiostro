@@ -1,25 +1,33 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { Menu } from './menu/Menu';
+import Menu from './Menu';
 import Container from 'react-bootstrap/Container'
 import Footer from './Footer'
-import Carousel2 from './carousel/Carousel'
+import { Route, Routes, Link } from "react-router-dom";
+import { Nav, Navbar, NavDropdown } from 'react-bootstrap';
+import { LinkContainer } from 'react-router-bootstrap'
+import Home from './Home';
 
 
-function App() {
 
-  return (
+class App extends React.Component {
 
-    <div className="App">
-      <Container fluid className="menu-container">
-        <Menu></Menu>
-      </Container>
-      <Footer></Footer>
-    </div >
+  render() {
+    return (
 
+      <div className="App" >
+        <div className="App">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="menu" element={<Menu />} />
+          </Routes>
+        </div>
+      </div >
 
-  );
+    );
+  }
+
 }
 
 export default App;
