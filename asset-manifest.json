@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alchiostro/static/css/main.09348267.css",
-    "main.js": "/alchiostro/static/js/main.3c2ef54e.js",
+    "main.js": "/alchiostro/static/js/main.78761fc6.js",
     "static/js/787.1b1c004a.chunk.js": "/alchiostro/static/js/787.1b1c004a.chunk.js",
     "index.html": "/alchiostro/index.html",
     "main.09348267.css.map": "/alchiostro/static/css/main.09348267.css.map",
-    "main.3c2ef54e.js.map": "/alchiostro/static/js/main.3c2ef54e.js.map",
+    "main.78761fc6.js.map": "/alchiostro/static/js/main.78761fc6.js.map",
     "787.1b1c004a.chunk.js.map": "/alchiostro/static/js/787.1b1c004a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09348267.css",
-    "static/js/main.3c2ef54e.js"
+    "static/js/main.78761fc6.js"
   ]
 }
