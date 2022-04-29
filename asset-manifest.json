@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/alchiostro/static/css/main.09348267.css",
-    "main.js": "/alchiostro/static/js/main.78761fc6.js",
+    "main.css": "/alchiostro/static/css/main.6bd7b71c.css",
+    "main.js": "/alchiostro/static/js/main.8dd59da1.js",
     "static/js/787.1b1c004a.chunk.js": "/alchiostro/static/js/787.1b1c004a.chunk.js",
+    "static/media/foto0.jpeg": "/alchiostro/static/media/foto0.8e245835e24f88f8021b.jpeg",
+    "static/media/foto3.jpeg": "/alchiostro/static/media/foto3.01d64bec4eed646e6823.jpeg",
+    "static/media/foto2.jpeg": "/alchiostro/static/media/foto2.dffd794a10187d7d529c.jpeg",
+    "static/media/foto1.jpeg": "/alchiostro/static/media/foto1.eb85d5040e3c19ffb960.jpeg",
     "index.html": "/alchiostro/index.html",
-    "main.09348267.css.map": "/alchiostro/static/css/main.09348267.css.map",
-    "main.78761fc6.js.map": "/alchiostro/static/js/main.78761fc6.js.map",
+    "main.6bd7b71c.css.map": "/alchiostro/static/css/main.6bd7b71c.css.map",
+    "main.8dd59da1.js.map": "/alchiostro/static/js/main.8dd59da1.js.map",
     "787.1b1c004a.chunk.js.map": "/alchiostro/static/js/787.1b1c004a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09348267.css",
-    "static/js/main.78761fc6.js"
+    "static/css/main.6bd7b71c.css",
+    "static/js/main.8dd59da1.js"
   ]
 }
