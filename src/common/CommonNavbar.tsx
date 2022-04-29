@@ -28,7 +28,7 @@ class CommonNavbar extends React.Component {
 
                             <NavDropdown title="Contattaci" id="basic-nav-dropdown">
                                 <NavDropdown.Item href="tel:+393757445080">Tel: 3757445080</NavDropdown.Item>
-                                <NavDropdown.Item href="https://wa.me/3757445080">Whatsapp</NavDropdown.Item>
+                                <NavDropdown.Item href="https://wa.me/+393757445080">Whatsapp</NavDropdown.Item>
                             </NavDropdown>
                         </Nav>
                     </Navbar.Collapse>
