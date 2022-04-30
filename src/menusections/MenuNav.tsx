@@ -8,7 +8,7 @@ export default class MenuNav extends React.Component {
     render() {
 
         return (
-            <Navbar bg="light" expand="lg" >
+            <Navbar bg="transparent" expand="lg" className="justify-content-center">
                 <Nav.Item>
                     <LinkContainer to="/primi">
                         <Nav.Link>Primi</Nav.Link>

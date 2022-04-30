@@ -1,8 +1,6 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-
 import MenuItem from './MenuItem';
-
 import contorni from '../data/contorni.json'
 import '../styles/CommonSections.scss'
 
