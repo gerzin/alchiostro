@@ -12,6 +12,7 @@ import Pizze from './Pizze';
 // Import all the data
 import Primi from './Primi';
 import Secondi from './Secondi';
+import Antipasti from './Antipasti';
 
 
 export type MenuBodyProps = { section?: string }
@@ -24,6 +25,9 @@ class MenuBody extends React.Component<MenuBodyProps> {
         let sectionObject;
 
         switch (section) {
+            case "antipasti":
+                sectionObject = <Antipasti></Antipasti>
+                break;
             case "primi":
                 sectionObject = <Primi></Primi>
                 break;

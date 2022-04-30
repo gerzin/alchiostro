@@ -9,6 +9,13 @@ export default class MenuNav extends React.Component {
 
         return (
             <Navbar bg="transparent" expand="lg" className="justify-content-center">
+
+                <Nav.Item>
+                    <LinkContainer to="/antipasti">
+                        <Nav.Link>Antipasti</Nav.Link>
+                    </LinkContainer>
+                </Nav.Item>
+
                 <Nav.Item>
                     <LinkContainer to="/primi">
                         <Nav.Link>Primi</Nav.Link>

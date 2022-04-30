@@ -15,7 +15,8 @@ class App extends React.Component {
       <div className="App" >
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="menu" element={<Menu section="primi" />} />
+          <Route path="menu" element={<Menu section="antipasti" />} />
+          <Route path="antipasti" element={<Menu section="antipasti" />} />
           <Route path="primi" element={<Menu section="primi" />} />
           <Route path="secondi" element={<Menu section="secondi" />} />
           <Route path="contorni" element={<Menu section="contorni" />} />
