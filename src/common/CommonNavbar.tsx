@@ -30,6 +30,7 @@ class CommonNavbar extends React.Component {
                                 <NavDropdown.Item href="tel:+393757445080">tel: 3757445080</NavDropdown.Item>
                                 <NavDropdown.Item href="https://wa.me/+393757445080">whatsapp</NavDropdown.Item>
                                 <NavDropdown.Item href="mailto:alchiostrobuccino@gmail.com">e-mail</NavDropdown.Item>
+                                <NavDropdown.Item href="https://www.google.it/maps/place/Al+Chiostro+Buccino/@40.6329099,15.370092,17z/data=!4m12!1m6!3m5!1s0x13396b9bb99067b9:0xe294947984f80194!2sAl+Chiostro+Buccino!8m2!3d40.632475!4d15.3705335!3m4!1s0x13396b9bb99067b9:0xe294947984f80194!8m2!3d40.632475!4d15.3705335">raggiungici</NavDropdown.Item>
                             </NavDropdown>
                         </Nav>
                     </Navbar.Collapse>

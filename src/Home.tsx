@@ -10,8 +10,60 @@ import photo0 from './photos/foto0.jpeg'
 import photo1 from './photos/foto1.jpeg'
 import photo2 from './photos/foto2.jpeg'
 import photo3 from './photos/foto3.jpeg'
-
 import logo from './styles/logo2.png'
+import { Button, OverlayTrigger, Popover, Table } from 'react-bootstrap';
+import { LinkContainer } from 'react-router-bootstrap';
+
+const popover = (
+    <Popover id="popover-basic">
+        <Popover.Header as="h3">Orari di Apertura</Popover.Header>
+        <Popover.Body>
+            <Table>
+                <tbody>
+                    <tr>
+                        <td>Lun</td>
+                        <td colSpan={2}>19-23:30</td>
+                    </tr>
+                    <tr>
+                        <td>Mar</td>
+                        <td colSpan={2}>Chiuso</td>
+                    </tr>
+                    <tr>
+                        <td>Mer</td>
+                        <td colSpan={2}>19-23:30</td>
+                    </tr>
+                    <tr>
+                        <td>Gio</td>
+                        <td colSpan={2}>19-23:30</td>
+                    </tr>
+                    <tr>
+                        <td>Ven</td>
+                        <td colSpan={2}>19-23:30</td>
+                    </tr>
+                    <tr>
+                        <td>Sab</td>
+                        <td>12:30-15</td>
+                        <td>19-23:30</td>
+                    </tr>
+                    <tr>
+                        <td>Dom</td>
+                        <td>12:30-15</td>
+                        <td>19-23:30</td>
+                    </tr>
+
+                </tbody>
+
+            </Table>
+        </Popover.Body>
+    </Popover>
+);
+
+const Timetable = () => (
+    <OverlayTrigger trigger="click" placement="top" overlay={popover}>
+        <Button variant="success">Orari di Apertura</Button>
+    </OverlayTrigger>
+);
+
 
 
 class Home extends React.Component {
@@ -42,6 +94,7 @@ class Home extends React.Component {
                             <Carousel.Item>
                                 <img className="img-responsive w-100 cim" src={photo3} alt="" />
                             </Carousel.Item>
+
                         </Carousel>
                     </Container>
 
@@ -58,6 +111,16 @@ class Home extends React.Component {
                                     <img src={logo} width={300} height={150} alt="" />
                                 </figure>
                             </Container>
+                            <br />
+                            <LinkContainer to="menu">
+                                <Button>Vai al Menù</Button>
+                            </LinkContainer>
+                            <br />
+                            <br />
+                            <Container>
+                                <Timetable></Timetable>
+                            </Container>
+
                         </section>
                     </Container>
                 </Container >

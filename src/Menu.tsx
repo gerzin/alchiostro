@@ -23,6 +23,7 @@ class Menu extends React.Component<MenuProps> {
                     <MenuNav></MenuNav>
                     <MenuBody section={section}></MenuBody>
                 </Container>
+                <div className='coperto-div'>Coperto: 1.5€</div>
                 <CommonFooter></CommonFooter>
             </div >
 
