@@ -13,13 +13,13 @@ export default class MenuItem extends React.Component<MenuItemProps> {
 
         if (allergies) {
             allergies_ = (
-                <div className="allergy-div">Allergeni: {allergies}</div>
+                <div className="menu-item-allergy">Allergeni: {allergies}</div>
             );
         }
 
         if (descr) {
             description_ = (
-                <p>{descr}</p>
+                <p className="menu-item-description">{descr}</p>
             );
         }
 
@@ -27,9 +27,10 @@ export default class MenuItem extends React.Component<MenuItemProps> {
         return (
             <Col className='col-sm-8'>
                 <div className='menu-item'>
-                    <h4>{name}</h4>
-                    <span>{price}€</span>
+                    <h4 className="menu-item-name">{name}</h4>
                     {description_}
+                    <div className="menu-item-price">{price}€</div>
+
                     {allergies_}
                 </div>
             </Col>

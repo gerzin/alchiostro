@@ -8,7 +8,7 @@ export default class MenuNav extends React.Component {
     render() {
 
         return (
-            <Nav fill variant="tabs">
+            <Nav fill >
 
                 <Nav.Item>
                     <LinkContainer to="/primi">
