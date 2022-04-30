@@ -1,24 +1,27 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Container from 'react-bootstrap/Container'
-import Footer from './common/CommonFooter'
 import { Route, Routes, Link } from "react-router-dom";
-import { Nav, Navbar, NavDropdown } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap'
 import CommonNavbar from './common/CommonNavbar';
 import CommonFooter from './common/CommonFooter';
+import './styles/Menu.scss'
+import MenuNav from './menusections/MenuNav';
+import MenuBody from './menusections/MenuBody';
+export type MenuProps = { section?: string }
 
 
-
-class Menu extends React.Component {
+class Menu extends React.Component<MenuProps> {
 
     render() {
+        const { section } = this.props;
+
         return (
             <div className="App" >
                 <CommonNavbar></CommonNavbar>
                 <Container fluid className="menu-container">
-                    Menu In Allestimento
+                    <MenuNav></MenuNav>
+                    <MenuBody section={section}></MenuBody>
                 </Container>
                 <CommonFooter></CommonFooter>
             </div >

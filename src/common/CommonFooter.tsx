@@ -13,7 +13,9 @@ const CommonFooter = () => (
                     <Col>
                         <a href="https://wa.me/+393757445080"><i className="fa fa-2xl fa-whatsapp"></i></a>
                     </Col>
-
+                    <Col>
+                        <a href="https://www.facebook.com/profile.php?id=100080751397631"><i className="fa fa-2xl fa-facebook"></i></a>
+                    </Col>
                     <Col>
                         <a href="https://www.instagram.com/al_chiostro_buccino/"><i className="fa fa-2xl fa-instagram"></i></a>
                     </Col>
