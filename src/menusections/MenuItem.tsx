@@ -25,7 +25,7 @@ export default class MenuItem extends React.Component<MenuItemProps> {
 
 
         return (
-            <Col className='col-sm-8'>
+            <Col>
                 <div className='menu-item'>
                     <h4 className="menu-item-name">{name}</h4>
                     {description_}
