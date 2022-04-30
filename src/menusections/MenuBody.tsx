@@ -1,6 +1,11 @@
 import React from 'react';
 import Container from 'react-bootstrap/Container'
 import Bevande from './Bevande';
+import Calzoni from './Calzoni';
+import PizzeBianche from './PizzeBianche'
+import PizzeRosse from './PizzeRosse'
+import PizzeAlChiostro from './PizzeAlChiostro'
+
 import Contorni from './Contorni';
 import Dolci from './Dolci';
 import Pizze from './Pizze';
@@ -37,6 +42,18 @@ class MenuBody extends React.Component<MenuBodyProps> {
             case "pizze":
                 sectionObject = <Pizze></Pizze>
                 break;
+            case "pizzecalzoni":
+                sectionObject = <Calzoni></Calzoni>
+                break;
+            case "pizzebianche":
+                sectionObject = <PizzeBianche></PizzeBianche>
+                break;
+            case "pizzerosse":
+                sectionObject = <PizzeRosse></PizzeRosse>
+                break;
+            case "pizzealchiostro":
+                sectionObject = <PizzeAlChiostro></PizzeAlChiostro>
+                break;
 
             default:
                 break;
@@ -44,8 +61,8 @@ class MenuBody extends React.Component<MenuBodyProps> {
 
 
         return (
-            <Container>
-                <Container>
+            <Container fluid>
+                <Container fluid>
                     {sectionObject}
                 </Container>
             </Container>

@@ -19,8 +19,12 @@ class Menu extends React.Component<MenuProps> {
         return (
             <div className="App" >
                 <CommonNavbar></CommonNavbar>
+
                 <Container fluid className="menu-container">
-                    <MenuNav></MenuNav>
+                    <Container fluid >
+                        <MenuNav></MenuNav>
+                    </Container>
+
                     <MenuBody section={section}></MenuBody>
                 </Container>
                 <div className='coperto-div'>Coperto: 1.5€</div>
