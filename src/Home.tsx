@@ -64,9 +64,37 @@ const Timetable = () => (
     </OverlayTrigger>
 );
 
+export type HomeState = {
+    contatore: number
+    banner: string
+}
 
 
-class Home extends React.Component {
+class Home extends React.Component<{}, HomeState> {
+
+    constructor(props: any) {
+        super(props);
+        this.state = {
+            contatore: 0,
+            banner: 'Da "Al Chiostro" potrai gustare un menù che lega tradizione e novità.'
+
+        };
+    }
+
+    imageClick() {
+        this.setState({ contatore: this.state.contatore + 1 });
+        if (this.state.contatore == 9) {
+            let newBanner: string = "Viva Aldo Catone"
+            if (this.state.banner == "Viva Aldo Catone") {
+                newBanner = "Ora hai rotto il cazzo"
+            }
+            if (this.state.banner == "Ora hai rotto il cazzo") {
+                newBanner = 'Da "Al Chiostro" potrai gustare un menù che lega tradizione e novità.'
+            }
+            this.setState({ contatore: 0, banner: newBanner })
+        }
+
+    }
 
     render() {
 
@@ -99,15 +127,15 @@ class Home extends React.Component {
                     </Container>
 
                     <Container fluid className='open-times alt p-0'>
-                        <p>
-                            Da "Al Chiostro" potrai gustare un menù che lega tradizione e novità.
+                        <p id="#messaggio">
+                            {this.state.banner}
                         </p>
                     </Container>
 
                     <Container fluid className='home-bottom-container p-0'>
                         <section className='infos-section'>
                             <Container className='logo-img'>
-                                <figure style={{ marginTop: "30px", marginBottom: "30px" }}>
+                                <figure style={{ marginTop: "30px", marginBottom: "30px" }} onClick={() => this.imageClick()}>
                                     <img src={logo} width={300} height={150} alt="" />
                                 </figure>
                             </Container>
