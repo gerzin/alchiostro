@@ -6,19 +6,19 @@
         "price": "15"
     },
     {
-        "name": "Costine di agnello con salsa ai frutti di bosco",
-        "descr": "Costine di agnello con salsa ai frutti di bosco",
+        "name": "Costine di agnello con salsa ai frutti di bosco frutti di bosco",
+        "descr": "",
         "price": "12"
     },
     {
         "name": "Ribs di maialino con salsa bbq",
-        "descr": "servite con chips di patate",
+        "descr": "ribs cotti a bassa temperatura servite con chips di patate",
         "allergies": "senape, anidride solforosa, pesce, glutine",
         "price": "mezzo rack 12€, rack intero 22"
     },
     {
         "name": "Scaloppine",
-        "descr": "scaloppine al limone o con funghi porcini",
+        "descr": "scaloppime al limone o con funghi porcini",
         "allergies": "glutine",
         "price": "8"
     }

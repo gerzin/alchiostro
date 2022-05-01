@@ -1,12 +1,18 @@
 [
     {
-        "name": "Greco di Tufo",
-        "descr": "",
-        "price": "14"
+        "name": "Cantine Iorio Brioso",
+        "price": "9"
+    },
+    {
+        "name": "Cantine Iorio Falanghina",
+        "price": "12"
     },
     {
         "name": "Falanghina del Sannio",
-        "descr": "",
         "price": "12"
+    },
+    {
+        "name": "Greco di Tufo",
+        "price": "14"
     }
 ]

@@ -1,7 +1,10 @@
 [
    {
-      "name": "Rubrato ",
-      "descr": "aglianico Feudi di san gregorio",
-      "price": "12"
+      "name": "Cantine Iorio Aglianico Beneventano",
+      "price": "10"
+   },
+   {
+      "name": "Rubrato Alianico Feudi di San gregorio",
+      "price": "13"
    }
 ]

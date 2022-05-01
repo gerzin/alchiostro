@@ -3,7 +3,7 @@
       "name": "Speck e noci",
       "descr": "fior di latte, speck in uscita: noci e ciuffi di ricotta",
       "allergies": "glutine, latte, frutta a guscio",
-      "price": "6"
+      "price": "6.5"
    },
    {
       "name": "Mortadella",
@@ -37,7 +37,7 @@
    },
    {
       "name": "4 formaggi",
-      "descr": "fior di latte, gorgonzola, crema di parmigiano e scamorza affumicata",
+      "descr": "fior di latte, gorgonzola, crema di parmigiano e provola affumicata",
       "allergies": "glutine, latte",
       "price": "6"
    },
@@ -49,14 +49,14 @@
    },
    {
       "name": "Datterino giallo e pancetta",
-      "descr": "fior di latte, crema di datterino giallo, scamorza affumicata e pancetta arrotolata",
+      "descr": "fior di latte, crema di datterino giallo, provola affumicata e pancetta",
       "allergies": "glutine, latte",
       "price": "6.5"
    },
    {
       "name": "Crocchettone sbriciolato",
       "descr": "fior di latte, panna, prosciutto cotto e crocchettone sbriciolato",
-      "allergies": "glutine, latte, uova",
+      "allergies": "glutine, latte",
       "price": "6.5"
    },
    {
