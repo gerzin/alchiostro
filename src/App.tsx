@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+import './styles/App.scss';
 import Menu from './Menu';
 import { Route, Routes, Link } from "react-router-dom";
 import Home from './Home';

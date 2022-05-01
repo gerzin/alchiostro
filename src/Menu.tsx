@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './styles/App.scss';
 import Container from 'react-bootstrap/Container'
 import { Route, Routes, Link } from "react-router-dom";
 import { LinkContainer } from 'react-router-bootstrap'
