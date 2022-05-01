@@ -37,7 +37,7 @@ export default class MenuNav extends React.Component {
 
                 <NavDropdown title="Pizze" id="basic-nav-dropdown" >
                     <LinkContainer to="/pizze">
-                        <Nav.Link>Tutte</Nav.Link>
+                        <Nav.Link><div className="menu-link-dropdown">Tutte</div></Nav.Link>
                     </LinkContainer>
                     <NavDropdown.Divider></NavDropdown.Divider>
                     <LinkContainer to="/pizzealchiostro">
