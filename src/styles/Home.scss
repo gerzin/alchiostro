@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "butter";
+    src: url("./BUTTERSHINESCRIPT.ttf") format("truetype");
+}
+
 .open-times {
     margin-bottom: 0;
 }
@@ -8,12 +13,13 @@
 
 .open-times p {
     text-align: center;
-    color: white !important;
-    text-transform: uppercase;
+    color: rgb(0, 0, 0) !important;
     letter-spacing: 1px;
-    font-size: 13px !important;
+    font-size: 20px !important;
     position: relative;
     margin-bottom: 0;
+    font-family: "butter";
+    font-weight: 500;
 }
 
 .open-times p:before {
@@ -26,18 +32,18 @@ body.home .open-times p:before {
 
 @media all and (min-width: 20.625em) {
     .open-times p {
-        font-size: 14px !important;
+        font-size: 20px !important;
     }
 }
 
 @media all and (min-width: 48.75em) {
     .open-times p {
-        font-size: 19px !important;
+        font-size: 20px !important;
     }
 }
 
 .open-times.alt {
-    background: #206db5;
+    background: #ebbf66;
     padding: 2px 0;
     margin: 0;
 }
