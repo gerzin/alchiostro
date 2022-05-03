@@ -1,14 +1,13 @@
-$footer-color:#f8cc75;
-$background-footer-pattern: url("asfalt-light.png");
-$footer-text-color: #ab7d08;
+@import 'ColorTheme';
+
 
 .common-footer {
-    background-color: $footer-color;
-    background-image: $background-footer-pattern;
+    background-color: $theme-background-color;
+    background-image: $theme-background-footer-pattern;
     padding: 30px 0;
     min-height: 50px;
     position: relative;
-    color: $footer-text-color;
+    color: $theme-text-color;
     margin-top: 10px;
 }
 
@@ -18,5 +17,5 @@ $footer-text-color: #ab7d08;
 }
 
 .fa {
-    color: $footer-text-color !important;
+    color: $theme-text-color !important;
 }

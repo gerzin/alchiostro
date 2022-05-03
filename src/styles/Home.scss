@@ -3,7 +3,7 @@
     src: url("./BUTTERSHINESCRIPT.ttf") format("truetype");
 }
 
-@import 'CommonFooter';
+@import 'ColorTheme';
 
 .open-times {
     margin-bottom: 0;
@@ -15,14 +15,14 @@
 
 .open-times p {
     text-align: center;
-    color: $footer-text-color !important;
+    color: $theme-text-color !important;
     letter-spacing: 1px;
     font-size: 20px !important;
     position: relative;
     margin-bottom: 0;
     font-family: "butter";
     font-weight: 500;
-    background-image: $background-footer-pattern;
+    background-image: $theme-background-footer-pattern;
 }
 
 .open-times p:before {
@@ -48,7 +48,7 @@ body.home .open-times p:before {
 
 
 .open-times.alt {
-    background: $footer-color;
+    background: $theme-background-color;
     padding: 2px 0;
     margin: 0;
 }
@@ -65,10 +65,10 @@ body.home .open-times p:before {
 }
 
 #custom-button {
-    background-color: $footer-color;
-    background-image: $background-footer-pattern;
-    border-color: $footer-text-color;
-    color: $footer-text-color;
+    background-color: $theme-background-color;
+    background-image: $theme-background-footer-pattern;
+    border-color: $theme-text-color;
+    color: $theme-text-color;
     font-family: "butter";
     font-size: 18pt;
     padding-bottom: 3px;
@@ -76,10 +76,10 @@ body.home .open-times p:before {
 }
 
 #custom-button-2 {
-    background-color: $footer-color;
-    background-image: $background-footer-pattern;
-    border-color: $footer-text-color;
-    color: $footer-text-color;
+    background-color: $theme-background-color;
+    background-image: $theme-background-footer-pattern;
+    border-color: $theme-text-color;
+    color: $theme-text-color;
     font-family: "butter";
     font-size: 18pt;
     padding-bottom: 3px;
