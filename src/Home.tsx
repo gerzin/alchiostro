@@ -42,8 +42,7 @@ const popover = (
                     </tr>
                     <tr>
                         <td>Sab</td>
-                        <td>12:30-15</td>
-                        <td>19-23:30</td>
+                        <td colSpan={2}>19-23:30</td>
                     </tr>
                     <tr>
                         <td>Dom</td>
@@ -83,12 +82,10 @@ class Home extends React.Component<{}, HomeState> {
 
     imageClick() {
         this.setState({ contatore: this.state.contatore + 1 });
+        let easterEgg = "Viva Aldo Catone"
         if (this.state.contatore == 9) {
-            let newBanner: string = "Viva Aldo Catone"
-            if (this.state.banner == "Viva Aldo Catone") {
-                newBanner = "Ora hai rotto il cazzo"
-            }
-            if (this.state.banner == "Ora hai rotto il cazzo") {
+            let newBanner: string = easterEgg
+            if (this.state.banner == easterEgg) {
                 newBanner = 'Da "Al Chiostro" potrai gustare un menù che lega tradizione e novità.'
             }
             this.setState({ contatore: 0, banner: newBanner })

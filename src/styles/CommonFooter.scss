@@ -1,8 +1,10 @@
+$footer-color:#f8cc75;
+
 .common-footer {
-    background-color: #433d3c;
+    background-color: $footer-color;
     padding: 30px 0;
     min-height: 50px;
     position: relative;
-    color: #e2d8d6;
+    color: #3b150d;
     margin-top: 10px;
 }

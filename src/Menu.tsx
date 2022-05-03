@@ -27,7 +27,7 @@ class Menu extends React.Component<MenuProps> {
 
                     <MenuBody section={section}></MenuBody>
                 </Container>
-                <div className='coperto-div'>Coperto: 1.5€</div>
+                <div className='coperto-div'>Coperto: 1.5€ (include caffè o liquore a fine pasto)</div>
                 <CommonFooter></CommonFooter>
             </div >
 

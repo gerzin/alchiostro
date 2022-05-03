@@ -42,8 +42,10 @@ body.home .open-times p:before {
     }
 }
 
+@import 'CommonFooter';
+
 .open-times.alt {
-    background: #ebbf66;
+    background: $footer-color;
     padding: 2px 0;
     margin: 0;
 }
