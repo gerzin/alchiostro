@@ -5,7 +5,7 @@ import '../styles/CommonFooter.scss'
 const CommonFooter = () => (
     <footer className="common-footer">
         <Container fluid>
-            <Container className="social-div">
+            <Container className="social-div unselectable" id="social-slogan">
                 Seguici sui nostri Social
             </Container>
             <Container fluid className="social pt-4">
@@ -24,7 +24,7 @@ const CommonFooter = () => (
 
             </Container>
             <br />
-            Piazza  Municipio, 84021 Buccino SA
+            <div className="unselectable">Piazza  Municipio, 84021 Buccino SA</div>
             <br />
 
             <Col style={{ paddingTop: "5px" }}>

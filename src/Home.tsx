@@ -59,7 +59,7 @@ const popover = (
 
 const Timetable = () => (
     <OverlayTrigger trigger="click" placement="top" overlay={popover}>
-        <Button variant="success">Orari di Apertura</Button>
+        <Button id='custom-button-2'>Orari di Apertura</Button>
     </OverlayTrigger>
 );
 
@@ -138,7 +138,7 @@ class Home extends React.Component<{}, HomeState> {
                             </Container>
                             <br />
                             <LinkContainer to="menu">
-                                <Button>Vai al Menù</Button>
+                                <Button id='custom-button'>Vai al Menù</Button>
                             </LinkContainer>
                             <br />
                             <br />

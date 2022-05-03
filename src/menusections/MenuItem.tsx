@@ -29,7 +29,7 @@ export default class MenuItem extends React.Component<MenuItemProps> {
                 <div className='menu-item'>
                     <h4 className="menu-item-name">{name}</h4>
                     {description_}
-                    <div className="menu-item-price">{price}€</div>
+                    <div className="menu-item-price"><div className="unselectable">{price}€</div></div>
 
                     {allergies_}
                 </div>

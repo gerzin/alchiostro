@@ -13,7 +13,10 @@ class CommonNavbar extends React.Component {
         return (
             <Navbar bg="light" expand="lg">
                 <Container>
-                    <Navbar.Brand href="/alchiostro">"Al Chiostro"</Navbar.Brand>
+                    <LinkContainer to="/">
+                        <Navbar.Brand href="/alchiostro">"Al Chiostro"</Navbar.Brand>
+                    </LinkContainer>
+
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">

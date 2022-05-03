@@ -63,3 +63,25 @@ body.home .open-times p:before {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+#custom-button {
+    background-color: $footer-color;
+    background-image: $background-footer-pattern;
+    border-color: $footer-text-color;
+    color: $footer-text-color;
+    font-family: "butter";
+    font-size: 18pt;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+
+#custom-button-2 {
+    background-color: $footer-color;
+    background-image: $background-footer-pattern;
+    border-color: $footer-text-color;
+    color: $footer-text-color;
+    font-family: "butter";
+    font-size: 18pt;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
