@@ -82,7 +82,7 @@ class Home extends React.Component<{}, HomeState> {
 
     imageClick() {
         this.setState({ contatore: this.state.contatore + 1 });
-        let easterEgg = "Viva Aldo Catone"
+        let easterEgg = "Buon Appetito & Viva Aldo Catone"
         if (this.state.contatore == 9) {
             let newBanner: string = easterEgg
             if (this.state.banner == easterEgg) {

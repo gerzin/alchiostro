@@ -14,7 +14,7 @@ function Bevande() {
 
     return (
         <Container fluid>
-            <Container fluid className='menu-section-name'>Bibite</Container>
+            <Container fluid className='menu-section-name'><div className='unselectable'>Bibite</div></Container>
             <Container fluid>
                 {bibite.map(
                     (dish, index) => (
@@ -23,7 +23,7 @@ function Bevande() {
                     )
                 )}
             </Container>
-            <Container fluid className='menu-section-name'>Vini Bianchi</Container>
+            <Container fluid className='menu-section-name'><div className='unselectable'>Vini Bianchi</div></Container>
             <Container fluid>
                 {vinibianchi.map(
                     (dish, index) => (
@@ -32,7 +32,7 @@ function Bevande() {
                     )
                 )}
             </Container>
-            <Container fluid className='menu-section-name'>Vini Rossi</Container>
+            <Container fluid className='menu-section-name'><div className='unselectable'>Vini Rossi</div></Container>
             <Container fluid>
                 {vinirossi.map(
                     (dish, index) => (
@@ -41,7 +41,7 @@ function Bevande() {
                     )
                 )}
             </Container>
-            <Container fluid className='menu-section-name'>Birre</Container>
+            <Container fluid className='menu-section-name'><div className='unselectable'>Birre</div></Container>
             <Container fluid>
                 {birre.map(
                     (dish, index) => (

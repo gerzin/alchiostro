@@ -13,7 +13,7 @@ function PizzeRosse() {
 
     return (
         <Container fluid>
-            <Container fluid className='menu-section-name'>Pizze Rosse</Container>
+            <Container fluid className='menu-section-name'><div className='unselectable'>Pizze Rosse</div></Container>
             <Container fluid>
                 {pizzerosse.map(
                     (dish, index) => (

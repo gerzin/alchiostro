@@ -13,7 +13,7 @@ function Calzoni() {
 
     return (
         <Container fluid>
-            <Container fluid className='menu-section-name'>Calzoni</Container>
+            <Container fluid className='menu-section-name'><div className='unselectable'>Calzoni</div></Container>
             <Container fluid>
                 {calzoni.map(
                     (dish, index) => (

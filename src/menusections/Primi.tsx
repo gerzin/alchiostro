@@ -10,7 +10,7 @@ function Primi() {
 
     return (
         <Container>
-            <Container fluid className='menu-section-name'>Primi</Container>
+            <Container fluid className='menu-section-name'><div className='unselectable'>Primi</div></Container>
             <Container fluid>
                 {primi.map(
                     (dish, index) => (

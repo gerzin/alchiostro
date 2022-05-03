@@ -3,6 +3,8 @@
     src: url("./BUTTERSHINESCRIPT.ttf") format("truetype");
 }
 
+@import 'CommonFooter';
+
 .open-times {
     margin-bottom: 0;
 }
@@ -13,13 +15,14 @@
 
 .open-times p {
     text-align: center;
-    color: rgb(0, 0, 0) !important;
+    color: $footer-text-color !important;
     letter-spacing: 1px;
     font-size: 20px !important;
     position: relative;
     margin-bottom: 0;
     font-family: "butter";
     font-weight: 500;
+    background-image: $background-footer-pattern;
 }
 
 .open-times p:before {
@@ -42,7 +45,7 @@ body.home .open-times p:before {
     }
 }
 
-@import 'CommonFooter';
+
 
 .open-times.alt {
     background: $footer-color;

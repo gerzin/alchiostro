@@ -1,10 +1,22 @@
 $footer-color:#f8cc75;
+$background-footer-pattern: url("asfalt-light.png");
+$footer-text-color: #ab7d08;
 
 .common-footer {
     background-color: $footer-color;
+    background-image: $background-footer-pattern;
     padding: 30px 0;
     min-height: 50px;
     position: relative;
-    color: #3b150d;
+    color: $footer-text-color;
     margin-top: 10px;
+}
+
+.social-div {
+    font-family: "butter";
+    font-size: 36px;
+}
+
+.fa {
+    color: $footer-text-color !important;
 }

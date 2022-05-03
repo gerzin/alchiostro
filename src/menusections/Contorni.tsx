@@ -9,7 +9,7 @@ function Contorni() {
 
     return (
         <Container fluid>
-            <Container fluid className='menu-section-name'>Contorni</Container>
+            <Container fluid className='menu-section-name'><div className='unselectable'>Contorni</div></Container>
             <Container fluid>
                 {contorni.map(
                     (dish, index) => (

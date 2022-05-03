@@ -10,7 +10,7 @@ function Secondi() {
 
     return (
         <Container fluid>
-            <Container fluid className='menu-section-name'>Secondi</Container>
+            <Container fluid className='menu-section-name'><div className='unselectable'>Secondi</div></Container>
             <Container fluid>
                 {secondi.map(
                     (dish, index) => (

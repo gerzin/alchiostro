@@ -11,7 +11,7 @@ function Dolci() {
 
     return (
         <Container fluid>
-            <Container fluid className='menu-section-name'>Dolci</Container>
+            <Container fluid className='menu-section-name'><div className='unselectable'>Dolci</div></Container>
             <Container fluid>
                 {dolci.map(
                     (dish, index) => (
