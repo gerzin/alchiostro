@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alchiostro/static/css/main.9cf75e91.css",
+    "main.css": "/alchiostro/static/css/main.ea192526.css",
     "main.js": "/alchiostro/static/js/main.4f0897e4.js",
     "static/js/787.1b1c004a.chunk.js": "/alchiostro/static/js/787.1b1c004a.chunk.js",
     "static/media/foto0.jpeg": "/alchiostro/static/media/foto0.8e245835e24f88f8021b.jpeg",
@@ -11,12 +11,12 @@
     "static/media/BUTTERSHINESCRIPT.ttf": "/alchiostro/static/media/BUTTERSHINESCRIPT.a9d0e5e6de50b7182fbf.ttf",
     "static/media/asfalt-light.png": "/alchiostro/static/media/asfalt-light.0dc0248a94662fa2129c.png",
     "index.html": "/alchiostro/index.html",
-    "main.9cf75e91.css.map": "/alchiostro/static/css/main.9cf75e91.css.map",
+    "main.ea192526.css.map": "/alchiostro/static/css/main.ea192526.css.map",
     "main.4f0897e4.js.map": "/alchiostro/static/js/main.4f0897e4.js.map",
     "787.1b1c004a.chunk.js.map": "/alchiostro/static/js/787.1b1c004a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cf75e91.css",
+    "static/css/main.ea192526.css",
     "static/js/main.4f0897e4.js"
   ]
 }
