@@ -2,7 +2,6 @@ import React from 'react';
 import './styles/Home.scss';
 import Container from 'react-bootstrap/Container'
 import CommonNavbar from './common/CommonNavbar';
-import backgroundpattern from './styles/texture_pattern_2X.jpg'
 import CommonFooter from './common/CommonFooter';
 import Carousel from 'react-bootstrap/Carousel'
 
@@ -10,6 +9,7 @@ import photo0 from './photos/foto0.jpeg'
 import photo1 from './photos/foto1.jpeg'
 import photo2 from './photos/foto2.jpeg'
 import photo3 from './photos/foto3.jpeg'
+import photoX from './photos/fotoX.jpeg'
 import logo from './styles/logo2.png'
 import { Button, OverlayTrigger, Popover, Table } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
@@ -66,6 +66,7 @@ const Timetable = () => (
 export type HomeState = {
     contatore: number
     banner: string
+    carousel_imgs: string[]
 }
 
 
@@ -75,30 +76,34 @@ class Home extends React.Component<{}, HomeState> {
         super(props);
         this.state = {
             contatore: 0,
-            banner: 'Da "Al Chiostro" potrai gustare un menù che lega tradizione e novità.'
-
+            banner: 'Da "Al Chiostro" potrai gustare un menù che lega tradizione e novità.',
+            carousel_imgs: [photo0, photo1, photo2, photo3]
         };
     }
 
     imageClick() {
         this.setState({ contatore: this.state.contatore + 1 });
         let easterEgg = "Buon Appetito & Viva Aldo Catone"
-        if (this.state.contatore == 9) {
+        if (this.state.contatore === 9) {
             let newBanner: string = easterEgg
-            if (this.state.banner == easterEgg) {
+            let newImgs: string[] = this.state.carousel_imgs
+
+            if (this.state.banner === easterEgg) {
                 newBanner = 'Da "Al Chiostro" potrai gustare un menù che lega tradizione e novità.'
+                newImgs.pop()
+
             }
-            this.setState({ contatore: 0, banner: newBanner })
+            else {
+                newImgs.push(photoX)
+            }
+            this.setState({ contatore: 0, banner: newBanner, carousel_imgs: newImgs })
         }
 
     }
 
     render() {
 
-        const bottomStyle = {
-            backgroundColor: "#fcf4e7" + " url(" + backgroundpattern + ") left top",
-            backgroundSize: "125px 125px"
-        }
+
 
         return (
 
@@ -107,19 +112,11 @@ class Home extends React.Component<{}, HomeState> {
                 <Container fluid className='home-content p-0'>
                     <Container fluid className='upper-images p-0' id='upper-images-div'>
                         <Carousel>
-                            <Carousel.Item>
-                                <img className="img-responsive w-100 cim" src={photo0} alt="" />
-                            </Carousel.Item>
-                            <Carousel.Item>
-                                <img className="img-responsive w-100 cim" src={photo1} alt="" />
-                            </Carousel.Item>
-                            <Carousel.Item>
-                                <img className="img-responsive w-100 cim" src={photo2} alt="" />
-                            </Carousel.Item>
-                            <Carousel.Item>
-                                <img className="img-responsive w-100 cim" src={photo3} alt="" />
-                            </Carousel.Item>
-
+                            {this.state.carousel_imgs.map((img) => (
+                                <Carousel.Item>
+                                    <img className="img-responsive w-100 cim" src={img} alt="" />
+                                </Carousel.Item>
+                            ))}
                         </Carousel>
                     </Container>
 
