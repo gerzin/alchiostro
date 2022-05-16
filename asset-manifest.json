@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alchiostro/static/css/main.335e55f9.css",
-    "main.js": "/alchiostro/static/js/main.893f9e6b.js",
+    "main.js": "/alchiostro/static/js/main.f67ac0cd.js",
     "static/js/787.1b1c004a.chunk.js": "/alchiostro/static/js/787.1b1c004a.chunk.js",
     "static/media/foto0.jpeg": "/alchiostro/static/media/foto0.8e245835e24f88f8021b.jpeg",
     "static/media/fotoX.jpeg": "/alchiostro/static/media/fotoX.b6b040e9d855366a5085.jpeg",
@@ -13,11 +13,11 @@
     "static/media/asfalt-light.png": "/alchiostro/static/media/asfalt-light.0dc0248a94662fa2129c.png",
     "index.html": "/alchiostro/index.html",
     "main.335e55f9.css.map": "/alchiostro/static/css/main.335e55f9.css.map",
-    "main.893f9e6b.js.map": "/alchiostro/static/js/main.893f9e6b.js.map",
+    "main.f67ac0cd.js.map": "/alchiostro/static/js/main.f67ac0cd.js.map",
     "787.1b1c004a.chunk.js.map": "/alchiostro/static/js/787.1b1c004a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.335e55f9.css",
-    "static/js/main.893f9e6b.js"
+    "static/js/main.f67ac0cd.js"
   ]
 }
