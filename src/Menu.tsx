@@ -1,8 +1,6 @@
 import React from 'react';
 import './styles/App.scss';
 import Container from 'react-bootstrap/Container'
-import { Route, Routes, Link } from "react-router-dom";
-import { LinkContainer } from 'react-router-bootstrap'
 import CommonNavbar from './common/CommonNavbar';
 import CommonFooter from './common/CommonFooter';
 import './styles/Menu.scss'
