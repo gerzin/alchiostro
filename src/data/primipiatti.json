@@ -1,13 +1,13 @@
 [
      {
-          "name": "Tagliatelle Homemade fave pancetta e finocchietto selvatico",
+          "name": "Tagliatelle porcini e tartufo",
           "descr": "Tagliatelle fatte in casa",
           "allergies": "glutine, uova, latte",
           "price": "9"
      },
      {
           "name": "Spaghetti alla Nerano",
-          "descr": "Spaghetti conditi con zucchine fritte, mix di Provolone del Monaco, parmigiano reggiano, pecorino e basilico fresco",
+          "descr": "Spaghetti conditi con zucchine fritte, scaglie, parmigiano reggiano, pecorino e basilico fresco",
           "allergies": "glutine, latte",
           "price": "8"
      },
