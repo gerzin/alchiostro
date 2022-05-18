@@ -51,7 +51,7 @@ export default class MenuNav extends React.Component {
                     </LinkContainer>
 
                     <LinkContainer to="/pizzecalzoni">
-                        <Nav.Link><div className="menu-link-dropdown">Calzoni</div></Nav.Link>
+                        <Nav.Link><div className="menu-link-dropdown">Calzoni e Panuozzi</div></Nav.Link>
                     </LinkContainer>
                 </NavDropdown>
 

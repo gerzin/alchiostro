@@ -6,11 +6,6 @@
         "price": "15"
     },
     {
-        "name": "Costine di agnello con salsa ai frutti di bosco",
-        "descr": "",
-        "price": "12"
-    },
-    {
         "name": "Ribs di maialino con salsa bbq",
         "descr": "ribs cotti a bassa temperatura servite con chips di patate",
         "allergies": "senape, anidride solforosa, pesce, glutine",
@@ -21,5 +16,10 @@
         "descr": "scaloppine al limone o con funghi porcini",
         "allergies": "glutine",
         "price": "8"
+    },
+    {
+        "name": "Coniglio e Agnello",
+        "descr": "solo su prenotazione",
+        "price": ""
     }
 ]

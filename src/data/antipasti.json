@@ -6,12 +6,6 @@
         "price": "10"
     },
     {
-        "name": "Vitellino tonnato",
-        "descr": "girello di vitellino, salsa tonnata, patate lesse, capperi e fagiolini.",
-        "allergies": "uova, latte, pesce",
-        "price": "8.50"
-    },
-    {
         "name": "Fritto misto Napoletano Homemade",
         "descr": "crocchettone con pistacchio e mortadella, arancino classico con crema al parmigiano, frittatina di pasta classica.",
         "allergies": "glutine, uova, latte, frutta a guscio",

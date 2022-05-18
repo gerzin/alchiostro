@@ -7,6 +7,8 @@ import pizzerosse from '../data/pizzerosse.json'
 import pizzebianche from '../data/pizzebianche.json'
 import pizzealchiostro from '../data/pizzealchiostro.json'
 import calzoni from '../data/calzonialforno.json'
+import panuozzi from '../data/panuozzi.json'
+
 import '../styles/CommonSections.scss'
 
 
@@ -46,6 +48,15 @@ function Pizze() {
             <Container fluid className='menu-section-name'>Calzoni</Container>
             <Container fluid>
                 {calzoni.map(
+                    (dish, index) => (
+                        <MenuItem {...dish}>
+                        </MenuItem>
+                    )
+                )}
+            </Container>
+            <Container fluid className='menu-section-name'>Panuozzi</Container>
+            <Container fluid>
+                {panuozzi.map(
                     (dish, index) => (
                         <MenuItem {...dish}>
                         </MenuItem>

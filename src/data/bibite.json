@@ -1,6 +1,6 @@
 [
    {
-      "name": "Liquori",
+      "name": "Amari",
       "descr": "",
       "price": "1"
    },
@@ -15,8 +15,8 @@
       "price": "1.5"
    },
    {
-      "name": "Fanta lattina",
-      "descr": "",
+      "name": "Estathe lattina",
+      "descr": "pesca o limone",
       "price": "1.5"
    },
    {

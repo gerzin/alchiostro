@@ -4,6 +4,8 @@ import { Col, Container, Row } from 'react-bootstrap';
 import MenuItem from './MenuItem';
 
 import calzoni from '../data/calzonialforno.json'
+import panuozzi from '../data/panuozzi.json'
+
 import '../styles/CommonSections.scss'
 
 
@@ -16,6 +18,13 @@ function Calzoni() {
             <Container fluid className='menu-section-name'><div className='unselectable'>Calzoni</div></Container>
             <Container fluid>
                 {calzoni.map(
+                    (dish, index) => (
+                        <MenuItem {...dish}>
+                        </MenuItem>
+                    )
+                )}
+                <Container fluid className='menu-section-name'><div className='unselectable'>Panuozzi</div></Container>
+                {panuozzi.map(
                     (dish, index) => (
                         <MenuItem {...dish}>
                         </MenuItem>

@@ -2,7 +2,7 @@ import React from "react";
 import '../styles/MenuItem.scss'
 import { Col, Row } from 'react-bootstrap';
 
-export type MenuItemProps = { name: string, descr?: string, price: string, allergies?: string }
+export type MenuItemProps = { name: string, descr?: string, price?: string, allergies?: string }
 
 export default class MenuItem extends React.Component<MenuItemProps> {
     render() {
@@ -10,6 +10,7 @@ export default class MenuItem extends React.Component<MenuItemProps> {
 
         let allergies_;
         let description_;
+        let price_;
 
         if (allergies) {
             allergies_ = (
@@ -23,14 +24,17 @@ export default class MenuItem extends React.Component<MenuItemProps> {
             );
         }
 
+        if (price) {
+            price_ = (<div className="menu-item-price"><div className="unselectable">{price}€</div></div>)
+        }
+
 
         return (
             <Col>
                 <div className='menu-item'>
                     <h4 className="menu-item-name">{name}</h4>
                     {description_}
-                    <div className="menu-item-price"><div className="unselectable">{price}€</div></div>
-
+                    {price_}
                     {allergies_}
                 </div>
             </Col>
