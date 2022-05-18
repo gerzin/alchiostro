@@ -10,6 +10,7 @@ import photo1 from './photos/foto1.jpeg'
 import photo2 from './photos/foto2.jpeg'
 import photo3 from './photos/foto3.jpeg'
 import photoX from './photos/fotoX.jpeg'
+import butt from './photos/photob.png'
 import logo from './styles/logo2.png'
 import { Button, OverlayTrigger, Popover, Table } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
@@ -95,8 +96,20 @@ class Home extends React.Component<{}, HomeState> {
             }
             else {
                 newImgs.push(photoX)
+                let buttImg = document.getElementById('hidden_buttkins');
+                if (buttImg) {
+                    buttImg.style.display = "block"
+                }
                 let audio = new Audio(process.env.PUBLIC_URL + '/audio/sublimesound.mp3');
-                audio.play();
+                audio.play()
+                audio.onended = () => {
+
+                    if (buttImg) {
+                        buttImg.style.display = "none"
+                    }
+                    console.log("YOLO")
+                }
+
 
             }
             this.setState({ contatore: 0, banner: newBanner, carousel_imgs: newImgs })
@@ -135,6 +148,10 @@ class Home extends React.Component<{}, HomeState> {
                                 <figure style={{ marginTop: "30px", marginBottom: "30px" }} onClick={() => this.imageClick()}>
                                     <img src={logo} width={300} height={150} alt="" />
                                 </figure>
+                                <div id="hidden_buttkins" style={{ display: "none" }}>
+                                    <img src={butt} />
+                                </div>
+
                             </Container>
                             <br />
                             <LinkContainer to="menu">
