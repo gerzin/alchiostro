@@ -95,6 +95,9 @@ class Home extends React.Component<{}, HomeState> {
             }
             else {
                 newImgs.push(photoX)
+                let audio = new Audio(process.env.PUBLIC_URL + '/audio/sublimesound.mp3');
+                audio.play();
+
             }
             this.setState({ contatore: 0, banner: newBanner, carousel_imgs: newImgs })
         }
