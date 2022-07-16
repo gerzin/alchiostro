@@ -6,27 +6,21 @@
           "price": "9"
      },
      {
-          "name": "Spaghetti alla Nerano",
-          "descr": "Spaghetti conditi con zucchine fritte, scaglie, parmigiano reggiano, pecorino e basilico fresco",
+          "name": "Alla Nerano pasta a scelta",
+          "descr": "con zucchine fritte, parmigiano reggiano, pecorino e basilico fresco",
           "allergies": "glutine, latte",
           "price": "8"
      },
      {
-          "name": "Pasta fresca al pomodoro e basilico",
-          "descr": "Pasta fresca del giorno fatta in casa",
+          "name": "Pasta fresca o ravioli al pomodoro e basilico",
+          "descr": "",
           "allergies": "glutine, uova, latte",
-          "price": "7"
+          "price": "7,5"
      },
      {
-          "name": "Ravioli al Carciofo",
-          "descr": "Ravioli con ripieno di ricotta e noci conditi con crema di carciofo bianco di Auletta con speck.",
-          "allergies": "glutine, uova, latte, frutta a guscio",
+          "name": "Risotto barbabietola gorgonzola e noci",
+          "descr": "",
+          "allergies": "latte, frutta a guscio",
           "price": "9"
-     },
-     {
-          "name": "Ravioli fatti in casa al pomodoro e basilico",
-          "descr": "ravioli freschi con ricotta al pomodoro",
-          "allergies": "glutine, uova, latte",
-          "price": "7"
      }
 ]

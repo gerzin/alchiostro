@@ -107,7 +107,7 @@ class Home extends React.Component<{}, HomeState> {
                     if (buttImg) {
                         buttImg.style.display = "none"
                     }
-                    console.log("YOLO")
+
                 }
 
 

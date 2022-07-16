@@ -9,7 +9,7 @@
         "name": "Vegetariana",
         "descr": "fior di latte, zucchine grigliate, melanzane grigliate e carciofini",
         "allergies": "glutine, latte",
-        "price": "5"
+        "price": "5.5"
     },
     {
         "name": "Crudo e rucola",
@@ -21,12 +21,12 @@
         "name": "Cotto e mais",
         "descr": "fior di latte, panna, prosciutto cotto e mais",
         "allergies": "glutine, latte",
-        "price": "5"
+        "price": "6"
     },
     {
         "name": "Salsiccia e patate al forno",
         "descr": "mozzarella di bufala, salsiccia, patate al forno croccanti in uscita: olio evo e basilico",
         "allergies": "glutine, latte",
-        "price": "6"
+        "price": "7"
     }
 ]

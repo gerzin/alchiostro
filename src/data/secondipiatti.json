@@ -1,19 +1,31 @@
 [
     {
         "name": "Tagliata di manzo",
-        "descr": "Rucola scaglie di grana e pomodorini o funghi porcini e provola affumicata (300gr)",
-        "allergies": "latte, solfiti",
+        "descr": "Rucola scaglie di grana e pomodorini, funghi porcini e provola affumicata (300gr), provola e porcini, porcini e tartufo, crema di pistacchio e stracciatella, crema ai 4 formaggi e noci",
+        "allergies": "latte, solfiti, frutta a guscio",
         "price": "15"
     },
     {
-        "name": "Ribs di maialino con salsa bbq",
-        "descr": "ribs cotti a bassa temperatura servite con chips di patate",
-        "allergies": "senape, anidride solforosa, pesce, glutine",
-        "price": "mezzo rack 13€, rack intero 25"
+        "name": "Fritto di Agnello e Verdure",
+        "descr": "agnello panato e fritto con verdure",
+        "allergies": "uova,glutine",
+        "price": "10"
+    },
+    {
+        "name": "Insalata Cesar",
+        "descr": "classica insalata Cesar con lattuga, petto di pollo grigliato, pancetta croccante, crostini di pane, scaglie di parmigiano e salsa Cesar",
+        "allergies": "uova, glutine, latte",
+        "price": "8.5"
+    },
+    {
+        "name": "Grigliata mista con contorni",
+        "descr": "manzo, agnello, maiale e pollo",
+        "allergies": "",
+        "price": "15"
     },
     {
         "name": "Scaloppine",
-        "descr": "scaloppine al limone o con funghi porcini",
+        "descr": "scaloppina al limone o con funghi porcini",
         "allergies": "glutine",
         "price": "8"
     },

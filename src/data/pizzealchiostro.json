@@ -19,15 +19,15 @@
    },
    {
       "name": "Polpettine al sugo",
-      "descr": "Cornicione ripieno di polpettine, fior di latte, pomodoro, ricotta e pecorino",
+      "descr": "Cornicione ripieno di polpettine e ricotta, fior di latte, pomodoro, scaglie",
       "allergies": "glutine, latte, uova",
-      "price": "6"
+      "price": "7"
    },
    {
-      "name": "Salame napoli e ricotta",
-      "descr": "fior di latte pomodoro in uscita: salame napoli e ricotta",
+      "name": "Topinambur",
+      "descr": "fior di latte, topinambur, speck e fonduta di parmigiano",
       "allergies": "glutine, latte",
-      "price": "6"
+      "price": "7"
    },
    {
       "name": "Nerano",
@@ -36,14 +36,8 @@
       "price": "6.5"
    },
    {
-      "name": "4 formaggi",
-      "descr": "fior di latte, gorgonzola, crema di parmigiano e provola affumicata",
-      "allergies": "glutine, latte",
-      "price": "6"
-   },
-   {
-      "name": "Asparagi",
-      "descr": "fior di latte, asparagi e pancetta (disponibile in stagione)",
+      "name": "Vellutata di piselli",
+      "descr": "fior di latte, vellutata di piselli, pancetta e scamorza affumicata",
       "allergies": "glutine, latte",
       "price": "6"
    },
@@ -58,10 +52,5 @@
       "descr": "fior di latte, panna, prosciutto cotto e crocchettone sbriciolato",
       "allergies": "glutine, latte",
       "price": "6.5"
-   },
-   {
-      "name": "Salsiccia e broccoli",
-      "descr": "fior di latte broccoli e salsiccia fresca (disponibile in stagione)",
-      "price": "6"
    }
 ]

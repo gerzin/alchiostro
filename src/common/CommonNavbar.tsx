@@ -14,7 +14,7 @@ class CommonNavbar extends React.Component {
             <Navbar bg="light" expand="lg">
                 <Container>
                     <LinkContainer to="/">
-                        <Navbar.Brand href="/alchiostro">"Al Chiostro"</Navbar.Brand>
+                        <Navbar.Brand href="/alchiostro" id="navbarbrand">"Al Chiostro"</Navbar.Brand>
                     </LinkContainer>
 
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
