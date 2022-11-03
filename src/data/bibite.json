@@ -1,26 +1,18 @@
 [
    {
-      "name": "Amari",
-      "descr": "",
-      "price": "1"
-   },
-   {
       "name": "Coca cola bottiglia",
-      "descr": "",
       "price": "3"
    },
    {
       "name": "Coca cola lattina",
-      "descr": "",
       "price": "1.5"
    },
    {
       "name": "Coca cola zero lattina",
-      "descr": "",
       "price": "1.5"
-   }, 
-  {
-      "name": "Estathé lattina",
+   },
+   {
+      "name": "Estathe lattina",
       "descr": "pesca o limone",
       "price": "1.5"
    },

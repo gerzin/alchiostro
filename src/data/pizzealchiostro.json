@@ -7,50 +7,56 @@
    },
    {
       "name": "Mortadella",
-      "descr": "fior di latte in uscita: mortadella, granella di pistacchio, crema di burrata e emulsione di olio al basilico",
-      "allergies": "glutine, latte, frutta a guscio ",
+      "descr": "fior di latte in uscita: mortadella, chips di patate, crema di burrata",
+      "allergies": "glutine",
       "price": "6.5"
    },
    {
-      "name": "Pomodorini confit e rucola",
-      "descr": "fior di latte in uscita: pomodorini confit cotti a bassa temperatura, rucola e stracciatella",
-      "allergies": "glutine, latte",
-      "price": "6"
-   },
-   {
-      "name": "Polpettine al sugo",
-      "descr": "Cornicione ripieno di polpettine e ricotta, fior di latte, pomodoro, scaglie",
+      "name": "Carbonara",
+      "descr": "fior di latte, rosso d’uovo pastorizzato, guanciale croccante, crema di pecorino",
       "allergies": "glutine, latte, uova",
-      "price": "7"
+      "price": "7.5"
    },
    {
-      "name": "Topinambur",
-      "descr": "fior di latte, topinambur, speck e fonduta di parmigiano",
+      "name": "Genovese",
+      "descr": "base genovese, fior di latte e chips di formaggio",
+      "allergies": "glutine, latte, solfiti",
+      "price": "7.5"
+   },
+   {
+      "name": "Radicchio scottato e speck",
+      "descr": "fior di latte, radicchio, speck, crema di parmigiano",
       "allergies": "glutine, latte",
       "price": "7"
    },
    {
-      "name": "Nerano",
-      "descr": "fior di latte, crema di zucchine in uscita: scaglie e zucchine fritte",
+      "name": "Gateau di patate",
+      "descr": "fior di latte, patate schiacciate, prosciutto cotto, salame napoli, pan grattato e parmigiano",
       "allergies": "glutine, latte",
-      "price": "6.5"
+      "price": "7"
    },
    {
-      "name": "Vellutata di piselli",
-      "descr": "fior di latte, vellutata di piselli, pancetta e scamorza affumicata",
+      "name": "Scarola",
+      "descr": "fior di latte, scarola, olive, capperi e acciughe",
       "allergies": "glutine, latte",
-      "price": "6"
+      "price": "7.5"
    },
    {
-      "name": "Datterino giallo e pancetta",
-      "descr": "fior di latte, crema di datterino giallo, provola affumicata e pancetta",
+      "name": "Broccoli e salsiccia fresca",
+      "descr": "fior di latte, broccoli, salsiccia e olio evo",
       "allergies": "glutine, latte",
-      "price": "6.5"
+      "price": "7"
+   },
+   {
+      "name": "Zucca e salsiccia",
+      "descr": "fior di latte, vellutata di zucca, salsiccia, stracciatella e chips di parmigiano",
+      "allergies": "glutine, latte",
+      "price": "7"
    },
    {
       "name": "Crocchettone sbriciolato",
       "descr": "fior di latte, panna, prosciutto cotto e crocchettone sbriciolato",
-      "allergies": "glutine, latte",
-      "price": "6.5"
+      "allergies": "glutine, latte, uova",
+      "price": "7"
    }
 ]

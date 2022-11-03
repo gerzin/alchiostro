@@ -1,37 +1,26 @@
 [
     {
         "name": "Tagliata di manzo",
-        "descr": "Rucola scaglie di grana e pomodorini, funghi porcini e provola affumicata (300gr), provola e porcini, porcini e tartufo, crema di pistacchio e stracciatella, crema ai 4 formaggi e noci",
-        "allergies": "latte, solfiti, frutta a guscio",
+        "descr": "rucola scaglie di grana e pomodorini / funghi porcini e provola affumicata / stracciatella e pistacchio / porcini e tartufo / quattro formaggi e noci ",
+        "allergies": "latte, frutta a guscio",
         "price": "15"
     },
     {
-        "name": "Fritto di Agnello e Verdure",
-        "descr": "agnello panato e fritto con verdure",
-        "allergies": "uova,glutine",
-        "price": "10"
+        "name": "Costoletta di manzo",
+        "descr": "costoletta di manzo cotta a bassa temperatura al vino rosso e servita con crema di patate, pancetta e champignon",
+        "allergies": "solfiti, latte",
+        "price": "15"
+    },
+    {
+        "name": "Pollo alla Kiev",
+        "descr": "petto di pollo, fritto e ripieno di burro aromatizzato al prezzemolo e aglio, con contorno di patate al forno e spinaci ",
+        "allergies": "latte, glutine, uova",
+        "price": "12"
     },
     {
         "name": "Insalata Cesar",
-        "descr": "classica insalata Cesar con lattuga, petto di pollo grigliato, pancetta croccante, crostini di pane, scaglie di parmigiano e salsa Cesar",
-        "allergies": "uova, glutine, latte",
-        "price": "8.5"
-    },
-    {
-        "name": "Grigliata mista con contorni",
-        "descr": "manzo, agnello, maiale e pollo",
-        "allergies": "",
-        "price": "15"
-    },
-    {
-        "name": "Scaloppine",
-        "descr": "scaloppina al limone o con funghi porcini",
-        "allergies": "glutine",
+        "descr": "Lattuga, salsa cesar, petto di pollo alla griglia, pancetta croccante, scaglie di parmigiano, crostini di pane",
+        "allergies": "glutine, latte, uova",
         "price": "8"
-    },
-    {
-        "name": "Coniglio, Agnello e altre tipologie di carne",
-        "descr": "solo su prenotazione",
-        "price": ""
     }
 ]

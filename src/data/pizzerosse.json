@@ -1,7 +1,7 @@
 [
     {
         "name": "Margherita",
-        "descr": "fior di latte,pomodoro in uscita: basilico e olio evo",
+        "descr": "fior di latte,pomodoro, basilico e olio evo",
         "allergies": "glutine, latte",
         "price": "4"
     },
@@ -13,7 +13,7 @@
     },
     {
         "name": "Wrustel e patatine",
-        "descr": "fior di latte, pomodoro, wrustel in uscita: patatine fritte",
+        "descr": "fior di latte, pomodoro, wrustel, patatine fritte",
         "allergies": "glutine, latte",
         "price": "5.5"
     },
@@ -21,17 +21,17 @@
         "name": "Salsiccia e patate lesse",
         "descr": "fior di latte, pomodoro, salsiccia e patate lesse",
         "allergies": "glutine, latte",
-        "price": "6"
+        "price": "6.5"
     },
     {
         "name": "Margherita con bufala",
         "descr": "pomodoro, mozzarella di bufala, olio evo e basilico",
         "allergies": "glutine, latte",
-        "price": "5"
+        "price": "5.5"
     },
     {
         "name": "Diavola",
-        "descr": "fior di latte, pomodoro, salame piccante in uscita: olio evo e basilico",
+        "descr": "fior di latte, pomodoro, salame piccante, olio evo e basilico",
         "allergies": "glutine, latte",
         "price": "5.5"
     },
@@ -39,6 +39,6 @@
         "name": "Capricciosa",
         "descr": "pomodoro, fior di latte, prosciutto cotto, funghi, olive e carciofini sott'olio",
         "allergies": "glutine, latte",
-        "price": "5.5"
+        "price": "6"
     }
 ]

@@ -1,26 +1,23 @@
 [
      {
-          "name": "Fusilli fatti a mano porcini e tartufo",
-          "descr": "",
-          "allergies": "glutine, uova, latte",
+          "name": "Risotto zucca e ragù bianco",
+          "allergies": "glutine, latte, solfiti",
           "price": "9"
      },
      {
-          "name": "Alla Nerano pasta a scelta",
-          "descr": "con zucchine fritte, parmigiano reggiano, pecorino e basilico fresco",
-          "allergies": "glutine, latte",
+          "name": "Ziti alla genovese",
+          "allergies": "glutine, latte, uova",
           "price": "8"
      },
      {
           "name": "Pasta fresca o ravioli al pomodoro e basilico",
-          "descr": "",
+          "descr": "Pasta fresca e ravioli di ricotta fatti in casa",
           "allergies": "glutine, uova, latte",
-          "price": "7,5"
+          "price": "7"
      },
      {
-          "name": "Risotto barbabietola gorgonzola e noci",
-          "descr": "",
-          "allergies": "latte, frutta a guscio",
+          "name": "Pasta fresca o risotto porcini e tartufo",
+          "allergies": "glutine, uova, latte",
           "price": "9"
      }
 ]

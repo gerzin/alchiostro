@@ -3,17 +3,23 @@
         "name": "Antipasto al Chiostro",
         "descr": "affettato di salumi locali, caciocavallo, pecorino nostrano, perla di bufala campana, assaggi misti a seconda della stagione.",
         "allergies": "latte",
-        "price": "10"
+        "price": "12"
     },
     {
-        "name": "Fritto misto Napoletano Homemade",
-        "descr": "crocchettone con pistacchio e mortadella, arancino classico con crema al parmigiano, frittatina di pasta classica.",
-        "allergies": "glutine, uova, latte, frutta a guscio",
+        "name": "Montanare",
+        "descr": "pomodoro e parmigiano, mortadella pistacchio e burrata, crema di porcini e tartufo (3 pezzi)",
+        "allergies": "uova, latte, glutine",
+        "price": "7"
+    },
+    {
+        "name": "Empanadas sudAmericane",
+        "descr": "classici panzerotti di origini sud americane, ripiene di carne trita, olive, uova, cipolla e peperone rosso",
+        "allergies": "glutine, uova, latte",
         "price": "8"
     },
     {
-        "name": "Arrosto freddo di manzo",
-        "descr": "con crema di porcini e nocciole",
+        "name": "Carpaccio di manzo",
+        "descr": "carpaccio condito con citronette, rucola e scaglie",
         "price": "8.50"
     }
 ]
