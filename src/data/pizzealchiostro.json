@@ -34,11 +34,5 @@
     "descr": "fior di latte in uscita: mortadella, granella di pistacchio, crema di burrata",
     "allergies": "glutine",
     "price": "6.5"
-  },
-  {
-    "name": "Genovese",
-    "descr": "base genovese, fior di latte e chips di formaggio",
-    "allergies": "glutine, latte, solfiti",
-    "price": "7.5"
   }
 ]

@@ -1,19 +1,29 @@
 [
      {
-          "name": "Risotto zucca e ragù bianco",
+          "name": "Risotto cavolo, gorgonzola e guanciale",
           "allergies": "glutine, latte, solfiti",
           "price": "9"
      },
      {
+          "name": "Cavatelli fagioli e cozze",
+          "allergies": "glutine, molluschi, uova",
+          "price": "7.5"
+     },
+     {
+          "name": "Ravioli alla Nerano",
+          "allergies": "glutine, uova, latte",
+          "price": "8"
+     },
+     {
           "name": "Ziti alla genovese",
           "allergies": "glutine, latte, uova",
-          "price": "8"
+          "price": "10"
      },
      {
           "name": "Pasta fresca o ravioli al pomodoro e basilico",
           "descr": "Pasta fresca e ravioli di ricotta fatti in casa",
           "allergies": "glutine, uova, latte",
-          "price": "7"
+          "price": "7.5"
      },
      {
           "name": "Pasta fresca o risotto porcini e tartufo",
