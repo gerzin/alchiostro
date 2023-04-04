@@ -6,20 +6,21 @@
         "price": "10"
     },
     {
-        "name": "Montanare",
-        "descr": "pomodoro e parmigiano, mortadella pistacchio e burrata, crema di porcini e tartufo (3 pezzi)",
-        "allergies": "uova, latte, glutine",
+        "name": "Polpette di coniglio",
+        "descr": "3 polpette di coniglio impanate nel pane panko, servito con riduzione al vino rosso e maionese all�aglio fatta in casa",
+        "allergies": "uova, latte, glutine, solfiti",
         "price": "7"
     },
     {
-        "name": "Empanadas sudAmericane",
+        "name": "Empanadas Sudamericane",
         "descr": "classici panzerotti di origini sud americane, ripiene di carne trita, olive, uova, cipolla e peperone rosso",
         "allergies": "glutine, uova, latte",
         "price": "8"
     },
     {
-        "name": "Carpaccio di manzo",
-        "descr": "carpaccio condito con citronette, rucola e scaglie",
+        "name": "Calamaro ripieno",
+        "descr": "calamaro ripieno sfumato al vino bianco, servito con crema di zucchine, zucchine fritte e crostini di pane",
+        "allergies": "glutine, uova, latte, solfiti",
         "price": "8.50"
     }
 ]

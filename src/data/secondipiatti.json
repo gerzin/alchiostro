@@ -6,16 +6,16 @@
         "price": "15"
     },
     {
-        "name": "Costoletta di manzo",
-        "descr": "costoletta di manzo cotta a bassa temperatura al vino rosso e servita con crema di patate, pancetta e champignon",
+        "name": "Fritto di agnello e verdure",
+        "descr": "agnello impanato e fritto servito con verdure di stagione",
         "allergies": "solfiti, latte",
-        "price": "15"
+        "price": "13"
     },
     {
-        "name": "Pollo alla Kiev",
-        "descr": "petto di pollo, fritto e ripieno di burro aromatizzato al prezzemolo e aglio, con contorno di patate al forno e spinaci ",
+        "name": "Pulled Pollo burger",
+        "descr": "panino per burger con pollo sfilacciato insaporito in salsa bbq e insalata di cavolo servito con patatine",
         "allergies": "latte, glutine, uova",
-        "price": "12"
+        "price": "8,5"
     },
     {
         "name": "Insalata Cesar",

@@ -10,5 +10,13 @@
     {
         "name": "Falanghina del Sannio",
         "price": "13"
+    },
+    {
+        "name": "Vinos a Falanghina",
+        "price": "13"
+    },
+    {
+        "name": "Prosecco",
+        "price": "8"
     }
 ]

@@ -1,24 +1,24 @@
 [
    {
       "name": "Coca cola bottiglia",
-      "price": "3"
+      "price": "3.5"
    },
    {
       "name": "Coca cola lattina",
-      "price": "1.5"
+      "price": "2"
    },
    {
       "name": "Coca cola zero lattina",
-      "price": "1.5"
+      "price": "2"
    },
    {
       "name": "Estathe lattina",
       "descr": "pesca o limone",
-      "price": "1.5"
+      "price": "2"
    },
    {
       "name": "Acqua Santo Stefano",
       "descr": "liscia o gassata",
-      "price": "1.5"
+      "price": "2"
    }
 ]

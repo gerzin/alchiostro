@@ -1,12 +1,18 @@
 [
      {
-          "name": "Verdure grigliate",
+          "name": "verdure grigliate",
           "descr": "",
-          "price": "3.5"
+          "price": "4"
      },
      {
           "name": "insalata mista",
           "descr": "",
+          "price": "3"
+     },
+     {
+          "name": "insalata coleslaw con cavolo cappuccio e cipolle",
+          "descr": "cavolo cappuccio, carote, cipolla, maionese",
+          "allergies": "uova",
           "price": "3"
      },
      {

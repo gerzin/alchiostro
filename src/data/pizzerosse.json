@@ -15,7 +15,7 @@
         "name": "Wrustel e patatine",
         "descr": "fior di latte, pomodoro, wrustel, patatine fritte",
         "allergies": "glutine, latte",
-        "price": "5.5"
+        "price": "6"
     },
     {
         "name": "Salsiccia e patate lesse",
@@ -33,7 +33,7 @@
         "name": "Diavola",
         "descr": "fior di latte, pomodoro, salame piccante, olio evo e basilico",
         "allergies": "glutine, latte",
-        "price": "5.5"
+        "price": "6"
     },
     {
         "name": "Capricciosa",

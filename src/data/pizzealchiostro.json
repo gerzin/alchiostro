@@ -1,62 +1,44 @@
 [
-   {
-      "name": "Speck e noci",
-      "descr": "fior di latte, speck in uscita: noci e ciuffi di ricotta",
-      "allergies": "glutine, latte, frutta a guscio",
-      "price": "6.5"
-   },
-   {
-      "name": "Mortadella",
-      "descr": "fior di latte in uscita: mortadella, chips di patate, crema di burrata",
-      "allergies": "glutine",
-      "price": "6.5"
-   },
-   {
-      "name": "Carbonara",
-      "descr": "fior di latte, rosso d’uovo pastorizzato, guanciale croccante, crema di pecorino",
-      "allergies": "glutine, latte, uova",
-      "price": "7.5"
-   },
-   {
-      "name": "Genovese",
-      "descr": "base genovese, fior di latte e chips di formaggio",
-      "allergies": "glutine, latte, solfiti",
-      "price": "7.5"
-   },
-   {
-      "name": "Radicchio scottato e speck",
-      "descr": "fior di latte, radicchio, speck, crema di parmigiano",
-      "allergies": "glutine, latte",
-      "price": "7"
-   },
-   {
-      "name": "Gateau di patate",
-      "descr": "fior di latte, patate schiacciate, prosciutto cotto, salame napoli, pan grattato e parmigiano",
-      "allergies": "glutine, latte",
-      "price": "7"
-   },
-   {
-      "name": "Scarola",
-      "descr": "fior di latte, scarola, olive, capperi e acciughe",
-      "allergies": "glutine, latte",
-      "price": "7.5"
-   },
-   {
-      "name": "Broccoli e salsiccia fresca",
-      "descr": "fior di latte, broccoli, salsiccia e olio evo",
-      "allergies": "glutine, latte",
-      "price": "7"
-   },
-   {
-      "name": "Zucca e salsiccia",
-      "descr": "fior di latte, vellutata di zucca, salsiccia, stracciatella e chips di parmigiano",
-      "allergies": "glutine, latte",
-      "price": "7"
-   },
-   {
-      "name": "Crocchettone sbriciolato",
-      "descr": "fior di latte, panna, prosciutto cotto e crocchettone sbriciolato",
-      "allergies": "glutine, latte, uova",
-      "price": "7"
-   }
+  {
+    "name": "Pesto",
+    "descr": "pesto di basilico, fior di latte, pomodorini confit, stracciatella e mandorle tostate",
+    "allergies": "glutine, latte, frutta a guscio ",
+    "price": "7"
+  },
+  {
+    "name": "Nerano",
+    "descr": "crema di zucchine, fior di latte, stracciatella, chips di zucchine, e scaglie di formaggio",
+    "allergies": "glutine, latte",
+    "price": "7"
+  },
+  {
+    "name": "Datterino giallo",
+    "descr": "datterino giallo, fior di latte, pancetta, scamorza affumicata",
+    "allergies": "glutine, latte",
+    "price": "7"
+  },
+  {
+    "name": "Tagliere",
+    "descr": "fior di latte, crudo, provolone piccante, miele e noci tritate",
+    "allergies": "glutine, latte, frutta a guscio",
+    "price": "7"
+  },
+  {
+    "name": "Speck e noci",
+    "descr": "fior di latte, speck in uscita: noci e ciuffi di ricotta",
+    "allergies": "glutine, latte, frutta a guscio",
+    "price": "6.5"
+  },
+  {
+    "name": "Mortadella",
+    "descr": "fior di latte in uscita: mortadella, granella di pistacchio, crema di burrata",
+    "allergies": "glutine",
+    "price": "6.5"
+  },
+  {
+    "name": "Genovese",
+    "descr": "base genovese, fior di latte e chips di formaggio",
+    "allergies": "glutine, latte, solfiti",
+    "price": "7.5"
+  }
 ]
