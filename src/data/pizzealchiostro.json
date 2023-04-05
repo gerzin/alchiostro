@@ -6,6 +6,12 @@
     "price": "7"
   },
   {
+    "name": "Porchetta",
+    "descr": "fior di latte, porchetta, patate al forno e fonduta di parmigiano",
+    "allergies": "glutine, latte",
+    "price": "7.5"
+  },
+  {
     "name": "Nerano",
     "descr": "crema di zucchine, fior di latte, stracciatella, chips di zucchine, e scaglie di formaggio",
     "allergies": "glutine, latte",
