@@ -16,11 +16,5 @@
         "descr": "classici panzerotti di origini sud americane, ripiene di carne trita, olive, uova, cipolla e peperone rosso",
         "allergies": "glutine, uova, latte",
         "price": "8"
-    },
-    {
-        "name": "Calamaro ripieno",
-        "descr": "calamaro ripieno sfumato al vino bianco, servito con crema di zucchine, zucchine fritte e crostini di pane",
-        "allergies": "glutine, uova, latte, solfiti",
-        "price": "8.50"
     }
 ]
