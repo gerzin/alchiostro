@@ -12,12 +12,6 @@
         "price": "13"
     },
     {
-        "name": "Pulled Pollo burger",
-        "descr": "panino per burger con pollo sfilacciato insaporito in salsa bbq e insalata di cavolo servito con patatine",
-        "allergies": "latte, glutine, uova",
-        "price": "8,5"
-    },
-    {
         "name": "Insalata Cesar",
         "descr": "Lattuga, salsa cesar, petto di pollo alla griglia, pancetta croccante, scaglie di parmigiano, crostini di pane",
         "allergies": "glutine, latte, uova",
