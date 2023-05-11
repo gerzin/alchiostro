@@ -28,5 +28,11 @@
         "descr": "mozzarella di bufala, salsiccia, patate al forno croccanti, olio evo e basilico",
         "allergies": "glutine, latte",
         "price": "7"
+    },
+    {
+        "name": "Salsiccia e patate lesse",
+        "descr": "fior di latte, salsiccia e patate lesse",
+        "allergies": "glutine, latte",
+        "price": "6.5"
     }
 ]
