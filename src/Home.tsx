@@ -23,11 +23,11 @@ const popover = (
                 <tbody>
                     <tr>
                         <td>Lun</td>
-                        <td colSpan={2}>19-23:30</td>
+                        <td colSpan={2}>Chiuso</td>
                     </tr>
                     <tr>
                         <td>Mar</td>
-                        <td colSpan={2}>Chiuso</td>
+                        <td colSpan={2}>19-23:30</td>
                     </tr>
                     <tr>
                         <td>Mer</td>
