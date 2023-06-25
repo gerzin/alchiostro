@@ -6,10 +6,16 @@
         "price": "15"
     },
     {
-        "name": "Fritto di agnello e verdure",
+        "name": "Fritto di agnello e verdure di stagione",
         "descr": "agnello impanato e fritto servito con verdure di stagione",
         "allergies": "solfiti, latte",
         "price": "13"
+    },
+    {
+        "name": "Grigliata Mista",
+        "descr": "grigliata con salsiccia, manzo costata di maiale, pollo con contorno",
+        "allergies": "latte, glutine, uova",
+        "price": "15"
     },
     {
         "name": "Insalata Cesar",

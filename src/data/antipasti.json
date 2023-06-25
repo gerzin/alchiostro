@@ -7,14 +7,20 @@
     },
     {
         "name": "Polpette di coniglio",
-        "descr": "3 polpette di coniglio impanate nel pane panko, servito con riduzione al vino rosso e maionese all'aglio fatta in casa",
+        "descr": "3 polpette di coniglio impanate nel pane panko, servito con riduzione al vino rosso e maionese all�aglio fatta in casa",
         "allergies": "uova, latte, glutine, solfiti",
         "price": "7"
     },
     {
-        "name": "Empanadas Sudamericane",
+        "name": "Empanadas sudAmericane",
         "descr": "classici panzerotti di origini sud americane, ripiene di carne trita, olive, uova, cipolla e peperone rosso",
         "allergies": "glutine, uova, latte",
+        "price": "8"
+    },
+    {
+        "name": "Tris di fritto Homemade",
+        "descr": "frittatina di pasta, crocch� mortadella e pistacchio, montanarina pomodoro e formaggio",
+        "allergies": "glutine, uova, latte, frutta a guscio",
         "price": "8"
     }
 ]

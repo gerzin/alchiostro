@@ -1,15 +1,33 @@
 [
   {
+    "name": "Polpettine e Pecorino",
+    "descr": "sugo cotto, fior di latte, polprettine fritte, scaglie di pecorino, basilico e olio",
+    "allergies": "glutine, uova, latte",
+    "price": "7.5"
+  },
+  {
+    "name": "Parmigiana di melanzane",
+    "descr": "pomodoro, fior di latte, parmigiana di melanzane, basilico e olio",
+    "allergies": "glutine, latte",
+    "price": "7.5"
+  },
+  {
+    "name": "Margherita al Chiostro",
+    "descr": "pomodoro, fior di latte, pomodorini gialli e rossi cotti al forno, burrata al basilico, olio e basilico fritto",
+    "allergies": "glutine, latte",
+    "price": ""
+  },
+  {
+    "name": "Porchetta",
+    "descr": "fior di latte, porchetta, patate al fornoe fonduta di parmigiano",
+    "allergies": "",
+    "price": ""
+  },
+  {
     "name": "Pesto",
     "descr": "pesto di basilico, fior di latte, pomodorini confit, stracciatella e mandorle tostate",
     "allergies": "glutine, latte, frutta a guscio ",
     "price": "7"
-  },
-  {
-    "name": "Porchetta",
-    "descr": "fior di latte, porchetta, patate al forno e fonduta di parmigiano",
-    "allergies": "glutine, latte",
-    "price": "7.5"
   },
   {
     "name": "Nerano",

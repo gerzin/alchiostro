@@ -10,12 +10,6 @@
           "price": "3"
      },
      {
-          "name": "insalata coleslaw con cavolo cappuccio e cipolle",
-          "descr": "cavolo cappuccio, carote, cipolla, maionese",
-          "allergies": "uova",
-          "price": "3"
-     },
-     {
           "name": "patatine fritte classiche o chips",
           "descr": "",
           "price": "3"
