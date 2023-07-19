@@ -22,5 +22,11 @@
         "descr": "frittatina di pasta, crocch� mortadella e pistacchio, montanarina pomodoro e formaggio",
         "allergies": "glutine, uova, latte, frutta a guscio",
         "price": "8"
+    },
+    {
+        "name": "Straccetti di pollo panati",
+        "descr": "frittatina di pasta, crocch� mortadella e pistacchio, montanarina pomodoro e formaggio",
+        "allergies": "uova, latte, glutine",
+        "price": "7"
     }
 ]

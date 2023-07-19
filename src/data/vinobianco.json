@@ -18,5 +18,9 @@
     {
         "name": "Prosecco",
         "price": "8"
+    },
+    {
+        "name": "Vinosia rosato",
+        "price": "13"
     }
 ]
