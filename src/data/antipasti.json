@@ -7,7 +7,7 @@
     },
     {
         "name": "Polpette di coniglio",
-        "descr": "3 polpette di coniglio impanate nel pane panko, servito con riduzione al vino rosso e maionese all�aglio fatta in casa",
+        "descr": "3 polpette di coniglio impanate nel pane panko, servito con riduzione al vino rosso e maionese all'aglio fatta in casa",
         "allergies": "uova, latte, glutine, solfiti",
         "price": "7"
     },
@@ -19,13 +19,13 @@
     },
     {
         "name": "Tris di fritto Homemade",
-        "descr": "frittatina di pasta, crocch� mortadella e pistacchio, montanarina pomodoro e formaggio",
+        "descr": "frittatina di pasta, crocchè mortadella e pistacchio, montanarina pomodoro e formaggio",
         "allergies": "glutine, uova, latte, frutta a guscio",
         "price": "8"
     },
     {
         "name": "Straccetti di pollo panati",
-        "descr": "frittatina di pasta, crocch� mortadella e pistacchio, montanarina pomodoro e formaggio",
+        "descr": "frittatina di pasta, crocchè mortadella e pistacchio, montanarina pomodoro e formaggio",
         "allergies": "uova, latte, glutine",
         "price": "7"
     }
