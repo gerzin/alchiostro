@@ -15,13 +15,13 @@
     "name": "Margherita al Chiostro",
     "descr": "pomodoro, fior di latte, pomodorini gialli e rossi cotti al forno, burrata al basilico, olio e basilico fritto",
     "allergies": "glutine, latte",
-    "price": ""
+    "price": "7"
   },
   {
     "name": "Porchetta",
     "descr": "fior di latte, porchetta, patate al fornoe fonduta di parmigiano",
     "allergies": "",
-    "price": ""
+    "price": "7.5"
   },
   {
     "name": "Pesto",
