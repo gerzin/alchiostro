@@ -1,62 +1,68 @@
 [
   {
-    "name": "Polpettine e Pecorino",
-    "descr": "sugo cotto, fior di latte, polprettine fritte, scaglie di pecorino, basilico e olio",
-    "allergies": "glutine, uova, latte",
+    "name": "Marinara al Chiostro",
+    "descr": "pomodoro, origano, pomodorini al forno, alici, olive nere e olio all’aglio",
+    "allergies": "glutine, pesce",
     "price": "7.5"
   },
   {
-    "name": "Parmigiana di melanzane",
-    "descr": "pomodoro, fior di latte, parmigiana di melanzane, basilico e olio",
+    "name": "Napoli Bruxelles",
+    "descr": "mozzarella, salame napoli, cavoletti di bruxelles, zest di limone olio e basilico",
     "allergies": "glutine, latte",
     "price": "7.5"
   },
   {
-    "name": "Margherita al Chiostro",
-    "descr": "pomodoro, fior di latte, pomodorini gialli e rossi cotti al forno, burrata al basilico, olio e basilico fritto",
-    "allergies": "glutine, latte",
-    "price": "7"
+    "name": "Carpaccio",
+    "descr": "carpaccio di manzo aromatizzato al limone, gocce di pesto al basilico, pomodorini confit, stracciatella e basilico",
+    "allergies": "glutine, latte, frutta a guscio",
+    "price": "9"
   },
   {
-    "name": "Porchetta",
-    "descr": "fior di latte, porchetta, patate al fornoe fonduta di parmigiano",
-    "allergies": "",
-    "price": "7.5"
+    "name": "Radicchio e Speck",
+    "descr": "mozzarella, radicchio scottato, speck, noci, fonduta di gorgonzola, olio e basilico",
+    "allergies": "glutine, latte, frutta a guscio",
+    "price": "8"
   },
   {
-    "name": "Pesto",
-    "descr": "pesto di basilico, fior di latte, pomodorini confit, stracciatella e mandorle tostate",
+    "name": "Diavolo",
+    "descr": "ombra di pomodoro, mozzarella, nduja, spianata piccante, salsa macha olio e basilico",
     "allergies": "glutine, latte, frutta a guscio ",
-    "price": "7"
+    "price": "8"
   },
   {
-    "name": "Nerano",
-    "descr": "crema di zucchine, fior di latte, stracciatella, chips di zucchine, e scaglie di formaggio",
+    "name": "Ricotta, limone e alici",
+    "descr": "mozzarella, ricotta, zest di limone, alici, olio e basilico",
+    "allergies": "glutine, latte, pesce",
+    "price": "7.5"
+  },
+  {
+    "name": "Pancetta e Chips di patate",
+    "descr": "mozzarella, pancetta croccante, chips di patate, fonduta di grana e basilico",
     "allergies": "glutine, latte",
-    "price": "7"
+    "price": "7.5"
   },
   {
-    "name": "Datterino giallo",
-    "descr": "datterino giallo, fior di latte, pancetta, scamorza affumicata",
+    "name": "Crocchè e Cotto",
+    "descr": "fior di latte, panna, proscitto cotto, crocchè di patate, olio e basilico",
+    "allergies": "glutine, latte, uova",
+    "price": "7.5"
+  },
+  {
+    "name": "Genovese di manzo",
+    "descr": "fior di latte, genovese di manzo con cipolle classica, parmigiano croccante, olio e basilico",
     "allergies": "glutine, latte",
-    "price": "7"
-  },
-  {
-    "name": "Tagliere",
-    "descr": "fior di latte, crudo, provolone piccante, miele e noci tritate",
-    "allergies": "glutine, latte, frutta a guscio",
-    "price": "7"
-  },
-  {
-    "name": "Speck e noci",
-    "descr": "fior di latte, speck in uscita: noci e ciuffi di ricotta",
-    "allergies": "glutine, latte, frutta a guscio",
-    "price": "6.5"
+    "price": "9"
   },
   {
     "name": "Mortadella",
-    "descr": "fior di latte in uscita: mortadella, granella di pistacchio, crema di burrata",
-    "allergies": "glutine",
-    "price": "6.5"
+    "descr": "fior di latte, mortadella, granella di pistacchio,burrata olio e basilico",
+    "allergies": "glutine, latte, frutta a guscio",
+    "price": "7.5"
+  },
+  {
+    "name": "Porchetta",
+    "descr": "fior di latte, porchetta, patate al forno e fonduta di parmigiano",
+    "allergies": "glutine, latte",
+    "price": "7.5"
   }
 ]

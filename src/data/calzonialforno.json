@@ -3,12 +3,18 @@
       "name": "Classico",
       "descr": "Fior di latte, pomodoro, salame napoli, proscitto cotto e ricotta",
       "allergies": "glutine, latte",
-      "price": "7"
+      "price": "8"
    },
    {
       "name": "Salsiccia e patate",
       "descr": "Fior di latte, salsiccia, patate lesse, provola affumicata",
       "allergies": "glutine, latte",
-      "price": "7"
+      "price": "8"
+   },
+   {
+      "name": "Panuozzo con gusto a scelta",
+      "descr": "280gr",
+      "allergies": "",
+      "price": "8.5"
    }
 ]

@@ -7,7 +7,7 @@
     },
     {
         "name": "Vegetariana",
-        "descr": "fior di latte, zucchine grigliate, melanzane grigliate e peperoni grigliati",
+        "descr": "fior di latte, verdure grigliate, peperoni in agrodolce, olio e basilico",
         "allergies": "glutine, latte",
         "price": "6"
     },
@@ -33,6 +33,6 @@
         "name": "Salsiccia e patate al forno",
         "descr": "mozzarella di bufala, salsiccia, patate al forno croccanti, olio evo e basilico",
         "allergies": "glutine, latte",
-        "price": "7"
+        "price": "7.5"
     }
 ]
